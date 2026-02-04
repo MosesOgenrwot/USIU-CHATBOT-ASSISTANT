@@ -1,0 +1,380 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2026-02-04",
+    "institution": "USIU-Africa",
+    "source": "Student Handbook, Campus Maps"
+  },
+  "campus_locations": {
+    "academic_buildings": {
+      "chandaria_school_of_business": {
+        "abbreviation": "CSB",
+        "classrooms": ["B1", "B2", "B3", "B4", "B5", "BS1", "BS2", "B-Lab"],
+        "lecture_theatres": ["LT1", "LT2"],
+        "contact": "Ext 415/414"
+      },
+      "science_centre": {
+        "classrooms": ["SC1", "SC2", "SC3", "SC4", "SC5", "SC6", "SC7", "SC8", "SC9"],
+        "lecture_theatres": ["LT3", "LT4", "LT5"],
+        "labs": ["Lab A", "Lab B", "Lab C", "Lab D", "Lab E", "Lab F", "Lab G", "Lab H", "Lab I", "Lab J", "Lab K"]
+      },
+      "lillian_k_beam_building": {
+        "abbreviation": "ICT Centre",
+        "labs": ["Lab 1", "Lab 2", "Lab 3", "Lab 4", "Lab 5", "Lab 6", "G-Lab", "Hardware Lab", "Software Lab"],
+        "total_ict_labs": 15,
+        "note": "Also houses Journalism Mac Labs 1 & 2, Language Lab, General Lab"
+      },
+      "school_of_humanities_social_sciences": {
+        "abbreviation": "SHSS",
+        "classrooms": ["SS1", "SS2", "SS3", "SS4", "SS5", "SS6", "SS7", "SS8", "SS9", "SS10", "SS11", "SS12", "SS13", "SS14", "SS15", "SS16", "SS17", "SS18", "SS19"],
+        "seminar_rooms": ["SR1", "SR2", "SR3", "SR4", "SR5"],
+        "lecture_theatres": ["LT7", "LT8"],
+        "contact": "Ext 433/434"
+      },
+      "wooden_blocks": {
+        "buildings": ["EF", "GH", "KL", "IJ"]
+      }
+    },
+    "administration_building": {
+      "location": "Main Administration Block",
+      "offices": {
+        "vice_chancellor": "Ext 411",
+        "dvc_academic_affairs": "Ext 406/407",
+        "dvc_student_affairs": "Ext 436",
+        "finance_office": "Ext 403/224",
+        "registrar": "Ext 239/216",
+        "human_resources": "Ext 408",
+        "alumni_office": "Ext 585/205/206"
+      }
+    },
+    "library": {
+      "name": "University Library and Information Center",
+      "seating_capacity": 1200,
+      "contact": "Ext 254/294/371/364/252/314",
+      "email": ["asklibrarian@usiu.ac.ke", "library@usiu.ac.ke"],
+      "floors": 2,
+      "features": {
+        "study_carrels": "Small and large study rooms on 1st and 2nd floors",
+        "audiovisual_workstations": 3,
+        "multimedia_area": "Available",
+        "instruction_room": "Available"
+      }
+    },
+    "student_services": {
+      "student_affairs_block": {
+        "dean_of_students": "Ext 187",
+        "head_of_student_activities": "Ext 144",
+        "clubs_coordinator": "Ext 173",
+        "international_students_officer": "Ext 212",
+        "career_counsellor": "Ext 162",
+        "sac_office": "Ext 243"
+      },
+      "counselling_center": {
+        "location": "Counselling Block opposite Classrooms I and J",
+        "contact": "Ext 311/297",
+        "head_of_counselling": "Available during working hours"
+      },
+      "health_center": {
+        "location": "Next to Hostels",
+        "contact": "Ext 542/230/229",
+        "hours": {
+          "all_students": "8:00 AM - 10:00 PM",
+          "resident_students_emergency": "10:00 PM - 8:00 AM",
+          "note": "Closed on public holidays and when school is not in session"
+        }
+      },
+      "housing_office": {
+        "head_of_housing": "Ext 265"
+      }
+    },
+    "cafeteria": {
+      "location": "University compound",
+      "contact": "Ext 302/208/293",
+      "hours": {
+        "breakfast": {
+          "monday_saturday": "7:30 AM - 9:30 AM",
+          "sunday": "9:30 AM - 2:00 PM"
+        },
+        "lunch": {
+          "monday_saturday": "12:00 PM - 3:00 PM",
+          "sunday": "12:00 PM - 2:00 PM"
+        },
+        "dinner": {
+          "monday_saturday": "7:00 PM - 9:30 PM",
+          "sunday": "6:30 PM - 8:30 PM"
+        },
+        "snack_bar": {
+          "monday_thursday": "10:00 AM - 8:00 PM",
+          "friday_saturday": "10:00 AM - 6:00 PM"
+        },
+        "restaurant_upstairs": "12:00 PM - 2:00 PM Monday-Thursday"
+      },
+      "payment_options": ["PAYE", "Meal plan"],
+      "rules": [
+        "Return used dishes to carts",
+        "No food from outside allowed",
+        "No taking utensils from cafeteria",
+        "No using other students' IDs to buy food",
+        "No smoking in cafeteria or anywhere on campus"
+      ]
+    },
+    "recreation_facilities": {
+      "student_center": {
+        "location": "Between student hostels and auditorium",
+        "facilities": [
+          "Gym with trained instructors",
+          "Aerobics room (3 sessions daily)",
+          "TV room",
+          "Pool tables (contracted service, fee required)",
+          "Changing rooms"
+        ],
+        "sports_activities_coordinator": "Available at Student Center"
+      }
+    },
+    "security": {
+      "head_of_security": "Ext 583",
+      "office_location": "Maintenance area opposite Cafeteria",
+      "emergency_contact": "Ext 266/461",
+      "contracted_security": "24 hours a day"
+    },
+    "transport": {
+      "transport_office": "Ext 273/584",
+      "contracted_transport_company": "Ext 228",
+      "note": "No university transport during vacation time"
+    },
+    "ict_services": {
+      "helpdesk": "Ext 333 or +254 20 3606 333",
+      "email": "helpdesk@usiu.ac.ke",
+      "multimedia_services": "multimedia@usiu.ac.ke (48 hours advance booking)",
+      "total_computer_labs": 15,
+      "services": [
+        "Computer lab access",
+        "Printing, photocopying, scanning",
+        "Internet access in Main Lab",
+        "Wireless Internet in designated areas",
+        "Personal folder on server (z:\\ drive)",
+        "CX system access (registration, grades, fee balance)",
+        "Blackboard e-learning platform"
+      ],
+      "requirements": "Must be financially cleared AND paid computer lab fees (IST students exempt)"
+    }
+  },
+  "library_services": {
+    "hours": {
+      "semester": {
+        "monday_friday": "8:15 AM - 9:00 PM",
+        "saturday": "9:00 AM - 6:00 PM",
+        "sunday": "11:00 AM - 5:00 PM"
+      },
+      "vacation": {
+        "monday_friday": "8:15 AM - 5:00 PM",
+        "saturday": "CLOSED",
+        "sunday": "CLOSED",
+        "public_holidays": "CLOSED"
+      }
+    },
+    "borrowing_privileges": {
+      "undergraduate_graduate_students": {
+        "books": 10,
+        "period": "2 weeks"
+      },
+      "faculty": {
+        "books": 15,
+        "period": "1 month"
+      },
+      "alumni": {
+        "books": 2,
+        "period": "2 weeks",
+        "annual_fee": 5000
+      }
+    },
+    "collections": {
+      "online_public_access_catalog": "OPAC - search books, audiovisual materials, journals",
+      "web_based_databases": "EBSCO host for journal/magazine/newspaper articles",
+      "course_texts": "Loaned for entire semester",
+      "american_studies_collection": "Architecture, art, business, cultural studies, drama, economics, education, geography, gender studies, history, international relations, politics, journalism, labour studies, law, linguistics, literature, music, philosophy, poetry, psychology, religion, science, sociology",
+      "africana_collection": "Works by African authors and about Africa",
+      "un_collection": "UN documentations and global body role",
+      "short_loan_collection": "High-demand books, periodicals, articles (2-hour loan)"
+    },
+    "services": {
+      "inter_library_loan": "Request material from other local libraries via User Services Librarian",
+      "photocopying": "Card-operated photocopier available",
+      "library_information_skills": "Training on OPAC, information searching, online databases"
+    },
+    "fines": {
+      "circulating_books_late": "KES 3.00 per day (if recalled)",
+      "short_loan_late": "KES 5.00 per hour",
+      "audiovisual_late": "KES 50.00 per day",
+      "inter_library_loan_late": "KES 10.00 per day (books), KES 120.00 per day (audiovisual)"
+    }
+  },
+  "health_wellness_services": {
+    "health_center": {
+      "services": [
+        "Clinical diagnosis and treatment",
+        "Dispensing prescriptions",
+        "Minor surgery (stitching cuts, dressing wounds, ear syringing)",
+        "Preventive care",
+        "Health counselling",
+        "Vaccination",
+        "First aid training and kits"
+      ]
+    },
+    "medical_insurance": {
+      "personal_accident_insurance": {
+        "coverage": "All fully registered students",
+        "medical_cover": "Up to KES 200,000 for accident-related injuries",
+        "death_disability_cover": "Up to KES 500,000",
+        "basis": "Reimbursement for non-sporting students, direct payment for sports injuries",
+        "applies_to": "Travelling to/from campus and during sports events"
+      },
+      "mandatory_medical_insurance": {
+        "who": "International students and hostel residents",
+        "amount": 8000,
+        "exemption": "Submit proof of valid Kenyan hospital insurance to health center"
+      },
+      "claim_procedure": [
+        "Report to USIU Health Centre immediately for first aid",
+        "Complete Personal Accident Claim Form",
+        "Have form executed by claimant and medical doctor/physiotherapist",
+        "Return forms with original medical bills within 14 days of injury"
+      ]
+    },
+    "counselling_services": {
+      "types": [
+        "Personal counselling",
+        "Career counselling",
+        "Group counselling",
+        "Life skills development",
+        "Voluntary Counselling and Testing (VCT)"
+      ],
+      "programs": "Workshops, seminars, awareness campaigns",
+      "special_support": "Special needs students, students with academic problems",
+      "confidentiality": "All matters discussed confidentially",
+      "appointment": "Book with Counselling Assistant, counsellor always available during working hours"
+    },
+    "aids_control_unit": {
+      "mandate": [
+        "Coordinate HIV and AIDS programs",
+        "Provide framework for implementation and monitoring",
+        "Spearhead fight against HIV and AIDS",
+        "Resource mobilization",
+        "Outreach programs for local community",
+        "Design HIV and AIDS curriculum",
+        "Train peer educators",
+        "Monitor and evaluate response programs",
+        "Research data gathering and dissemination"
+      ]
+    }
+  },
+  "dining_services": {
+    "room_board_fees": {
+      "room_only_per_semester": 42000,
+      "7_day_meal_plan": {
+        "amount": 58800,
+        "rate": "KES 600 per day"
+      }
+    },
+    "cafeteria_regulations": [
+      "Self-service - return dishes to carts",
+      "No waiters provided",
+      "No external food allowed",
+      "No removing utensils from cafeteria",
+      "No using other students' IDs",
+      "Severe sanctions for violations",
+      "Smoking NOT allowed in cafeteria or anywhere on campus"
+    ]
+  },
+  "student_housing": {
+    "capacity": 258,
+    "room_type": "Double occupancy",
+    "amenities": [
+      "Cable television in common rooms",
+      "Recreational areas for games",
+      "Socializing spaces",
+      "Wi-Fi connectivity"
+    ],
+    "priority": "International students and those from outside Nairobi",
+    "caution_money": {
+      "boarding_students": 4778,
+      "day_students": 2100,
+      "note": "Refundable and payable once"
+    }
+  },
+  "ict_regulations": {
+    "lab_access": "Must show ID Card with appropriate sticker to security",
+    "prohibited_activities": [
+      "Playing games",
+      "Personal work (labs strictly for research and assignments)",
+      "Pirating software, music, videos",
+      "Modifying or deleting system/application files",
+      "Moving equipment out of labs",
+      "Food and drinks in labs",
+      "Making noise or causing disturbance",
+      "Fraudulent, harassing, or obscene materials"
+    ],
+    "personal_computers": {
+      "registration": "Must be registered with ICT Department",
+      "requirements": "Licensed software and current antivirus",
+      "inspection": "Must show to security upon request, sign in/out of buildings",
+      "prohibited_locations": "Not allowed in teaching labs",
+      "general_lab_use": "Only in designated section"
+    },
+    "data_security": [
+      "Protect passwords, change regularly",
+      "Students responsible for all activities using their credentials",
+      "Save work in home directory (z:\\ folder)",
+      "Daily backups performed by ICT",
+      "Do NOT save to local hard drives",
+      "Z:\\ folder cleaned at end of EVERY semester",
+      "Non-compliant files (music, videos, games) may be deleted"
+    ]
+  },
+  "campus_safety": {
+    "speed_limit": "10 KPH",
+    "parking": {
+      "registration": "All vehicles require security clearance and stickers",
+      "overnight_parking": "Requires permission from security office",
+      "violations": "Subject to disciplinary action"
+    },
+    "fire_safety": [
+      "Do not overload electrical outlets",
+      "Never smoke in bed or anywhere on campus",
+      "Never go back into burning building",
+      "Plan escape routes",
+      "Know location of fire extinguishers",
+      "Illegal to tamper with or discharge fire extinguisher",
+      "Evacuate immediately when alarm goes off"
+    ],
+    "emergency_contacts": {
+      "fire_department": "999 or 112",
+      "police": "999 or 112",
+      "campus_security": "Ext 266/461"
+    },
+    "zero_tolerance_crimes": [
+      "Theft",
+      "Drug offenses"
+    ]
+  },
+  "important_contacts": {
+    "main_address": "P.O. Box 14634-00800, USIU Road, Off Thika Road (Exit 7), Nairobi, Kenya",
+    "admissions": {
+      "phones": ["+254 730 116 290", "+254 730 116 291", "+254 730 116 241", "+254 730 116 300", "+254 730 116 397", "+254 730 116 503", "+254 730 116 522"],
+      "email": "admit@usiu.ac.ke"
+    },
+    "finance": {
+      "phones": ["+254 730 116 509", "+254 730 116 221", "+254 730 116 538", "+254 730 116 403", "+254 730 116 224"],
+      "email": "finance@usiu.ac.ke"
+    },
+    "alumni": {
+      "email": "alumni@usiu.ac.ke",
+      "ext": "585/205/206"
+    },
+    "financial_aid": {
+      "phone": "+254 20 3606210",
+      "email": "finaid@usiu.ac.ke"
+    },
+    "website": "www.usiu.ac.ke"
+  }
+}

@@ -1,0 +1,490 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2026-02-04",
+    "institution": "USIU-Africa",
+    "source": "Current Student Handbook"
+  },
+  "conduct_jurisdiction": {
+    "authority": "University has authority to safeguard safety, reputation, and well-being of campus community, facilities, and programs",
+    "scope": [
+      "On-campus violations",
+      "Off-campus violations affecting university interests",
+      "University-related travel or functions",
+      "Violations of Kenyan legislation"
+    ],
+    "legal_relationship": "University disciplinary action independent of civil/criminal proceedings"
+  },
+  "disciplinary_sanctions": {
+    "general_provisions": [
+      "No refunds for students suspended or dismissed for disciplinary reasons",
+      "No refund for loss of university contracted services due to disciplinary action",
+      "Violations of Kenyan law may result in criminal prosecution",
+      "Illegal substance violations may require completion of education/rehabilitation program"
+    ],
+    "sanctions_hierarchy": [
+      {
+        "level": 1,
+        "name": "Disciplinary Warning",
+        "description": "Written action for minor student misconduct",
+        "consequence": "Official admonition with warning that further misconduct may result in more severe action"
+      },
+      {
+        "level": 2,
+        "name": "Probation Level I",
+        "description": "Serious reprimanding for designated period",
+        "restrictions": "May represent university in activities and hold office during probation",
+        "warning": "Further infractions may result in more stringent restrictions"
+      },
+      {
+        "level": 3,
+        "name": "Probation Level II",
+        "description": "Most serious sanction short of suspension",
+        "restrictions": [
+          "Cannot represent university in official capacity",
+          "Cannot hold office in student organizations",
+          "May lose on-campus housing privileges",
+          "May be restricted from campus events and activities",
+          "May be restricted from using university sports facilities"
+        ],
+        "status": "Remains in good standing, financial aid not affected",
+        "application_for_reinstatement": "Required upon completion of sanctions",
+        "note": "Further violations may lead to suspension or dismissal"
+      },
+      {
+        "level": 4,
+        "name": "Interim Suspension",
+        "description": "Temporary removal if student poses serious risk",
+        "process": "Can be immediately imposed without warning",
+        "duration": "14 days from suspension date to appear before hearing officer",
+        "restrictions": "Student barred from university premises",
+        "consequence": "Further disciplinary action for unauthorized return"
+      },
+      {
+        "level": 5,
+        "name": "Suspension",
+        "description": "Involuntary separation for designated period",
+        "requirements": "Additional requirements may be established for reinstatement",
+        "restrictions": "Barred from university premises and activities",
+        "reinstatement": "Application required upon completion",
+        "extension": "Possible if terms not met",
+        "record": "Appears on disciplinary records"
+      },
+      {
+        "level": 6,
+        "name": "Suspension of Group Recognition",
+        "description": "Withdrawal of official recognition for specified period",
+        "effect": "Complete suspension of group activity",
+        "reinstatement": "Group members must apply for official lifting",
+        "extension": "Possible if terms not met"
+      },
+      {
+        "level": 7,
+        "name": "Dismissal",
+        "description": "Involuntary and permanent separation",
+        "record": "Appears on academic history and transcript",
+        "restrictions": "Barred from university activities and premises"
+      },
+      {
+        "level": 8,
+        "name": "Revocation of Group Recognition",
+        "description": "Permanent cancellation of official university recognition",
+        "effect": "Suspension of group's registration and activities"
+      }
+    ],
+    "additional_penalties": {
+      "restitution_fines": "Students/organizations may be obligated to pay damages plus administrative fees for disciplinary proceedings"
+    }
+  },
+  "conduct_violations": [
+    {
+      "violation": "Actual or threatened assault, physical assault, or intentional/reckless injury",
+      "sanction": "Suspension"
+    },
+    {
+      "violation": "Sexual assault, rape, attempted rape, sexual harassment, or any other sexual offense",
+      "sanction": "Dismissal"
+    },
+    {
+      "violation": "Possession, sale, use, transfer, purchase, or delivery of alcohol, intoxicating substances, or illicit drugs",
+      "sanction": "Suspension",
+      "note": "Except as expressly permitted by law"
+    },
+    {
+      "violation": "Hazing, harassment, bullying, stalking (verbal, written, email, text, or any form)",
+      "sanction": "Suspension"
+    },
+    {
+      "violation": "Causing disturbance under influence of alcohol/intoxicants on premises or at university functions",
+      "sanction": "Probation Level 2"
+    },
+    {
+      "violation": "Offensive or disorderly conduct causing interference, annoyance, or alarm",
+      "sanction": "Probation Level 2"
+    },
+    {
+      "violation": "Littering, defacing university or private property",
+      "sanction": "Probation Level 1 + KES 2,000 fine",
+      "repeat_offense": "Probation Level 2 + KES 4,000 fine"
+    },
+    {
+      "violation": "Interfering with freedom of expression (including invited speakers)",
+      "sanction": "Probation Level 1"
+    },
+    {
+      "violation": "Interference with entry/exit from buildings or free movement",
+      "sanction": "Probation Level 1"
+    },
+    {
+      "violation": "Behavior endangering safety/wellbeing of self/others/property (including stalking)",
+      "sanction": "Probation Level 2"
+    },
+    {
+      "violation": "Disruption of teaching, research, administration, or university activities",
+      "sanction": "Probation Level 2"
+    },
+    {
+      "violation": "Wrongful parking (blocking, abandoning, obstructing disability access)",
+      "sanction": "Probation Level 1 + KES 2,000 fine + vehicle clamping",
+      "repeat_offense": "Probation Level 2 + parking rights denied for minimum one semester",
+      "note": "University may tow vehicle to police station at owner's cost"
+    },
+    {
+      "violation": "Refusal to provide ID or comply with university employee directions",
+      "sanction": "Probation Level 2"
+    },
+    {
+      "violation": "Misuse of university documents/facilities (forgery, altering IDs, peddling falsehoods)",
+      "sanction": "Suspension"
+    },
+    {
+      "violation": "Fraud or false statements in official documents/applications/university sites",
+      "sanction": "Suspension"
+    },
+    {
+      "violation": "Forcible entry into university building or premises",
+      "sanction": "Probation Level 2 + payment of repair charges"
+    },
+    {
+      "violation": "Trespass or unauthorized presence in building/premises",
+      "sanction": "Probation Level 1"
+    },
+    {
+      "violation": "Unauthorized possession of firearms, fireworks, dangerous weapons, restricted chemicals, or realistic-looking toy weapons",
+      "sanction": "Suspension"
+    },
+    {
+      "violation": "Gross misconduct (assaulting employee, starting fires, igniting fireworks, unauthorized cooking, incendiary devices, explosives)",
+      "sanction": "Suspension"
+    },
+    {
+      "violation": "False reporting (bomb, emergency, or falsely accusing others)",
+      "sanction": "Probation Level 2"
+    },
+    {
+      "violation": "Tampering with fire or safety equipment",
+      "sanction": "Probation Level 2"
+    },
+    {
+      "violation": "Refusal to evacuate during emergency drills",
+      "sanction": "Probation Level 2"
+    },
+    {
+      "violation": "Damage, destruction, tampering, or defacement of property",
+      "sanction": "Probation Level 2"
+    },
+    {
+      "violation": "Obscenity or lewd or indecent conduct",
+      "sanction": "Probation Level 2"
+    },
+    {
+      "violation": "Social media crimes (cyberbullying, trolling, threats, harassment, hacking, fraud, fake accounts)",
+      "sanction": "Suspension"
+    },
+    {
+      "violation": "Illegal/unauthorized gambling on campus",
+      "sanction": "Probation Level 2"
+    },
+    {
+      "violation": "Violation of residence hall rules",
+      "sanction": "Per residence handbook + relevant articles"
+    },
+    {
+      "violation": "Misuse of communication equipment (electronic/non-electronic devices, notice boards)",
+      "sanction": "Probation Level 2"
+    },
+    {
+      "violation": "Recording voice/image without consent or invading privacy",
+      "sanction": "Probation Level 2"
+    },
+    {
+      "violation": "Unauthorized use of university logo, facilities, premises for personal/commercial purposes",
+      "sanction": "Probation Level 2"
+    },
+    {
+      "violation": "Soliciting/receiving/offering bribes, payoffs, or kickbacks",
+      "sanction": "Suspension"
+    },
+    {
+      "violation": "Disruptive protests/political agitation interfering with rights or safety",
+      "sanction": "Suspension"
+    },
+    {
+      "violation": "Theft or knowingly handling stolen property",
+      "sanction": "Dismissal"
+    },
+    {
+      "violation": "Speeding on campus, causing accidents/injury through reckless driving",
+      "sanction": "Banned from driving inside university for one semester + Probation Level 2"
+    },
+    {
+      "violation": "Unauthorized use of recording devices (drones, cameras) at university events",
+      "sanction": "Probation Level 2"
+    },
+    {
+      "violation": "Violation of prior disciplinary sanctions",
+      "sanction": "Probation Level 2 or Suspension (for serious offenses)"
+    }
+  ],
+  "alcohol_drug_policy": {
+    "environment": "Alcohol and drug-free",
+    "expectations": [
+      "Respect national law",
+      "Accept accountability for behavior",
+      "Abide by alcohol policy"
+    ],
+    "prohibited": [
+      "Alcohol-related or drug-induced misconduct",
+      "Causing disorder, bodily harm, public disturbance",
+      "Property damage or danger",
+      "Consumption during university-related travel or functions"
+    ],
+    "illegal_drugs": {
+      "policy": "Zero tolerance",
+      "prohibited_substances": [
+        "Cannabis",
+        "Heroin",
+        "Morphine",
+        "Cocaine",
+        "Opium"
+      ],
+      "note": "Possession is criminal offense in Kenya",
+      "sanction": "Dismissal from university"
+    },
+    "smoking": {
+      "policy": "Strictly prohibited in university buses, buildings, and compounds",
+      "forms": [
+        "Smoking",
+        "Vaping",
+        "Any form of tobacco use"
+      ]
+    },
+    "university_rights": "May carry out inspections and order drug/alcohol tests when necessary",
+    "support_resources": [
+      "Counselling services",
+      "Health Center",
+      "Peer Educators and Counsellors"
+    ]
+  },
+  "sexual_gender_based_violence": {
+    "policy": "Zero tolerance",
+    "prohibited_conduct": [
+      "Sexual harassment",
+      "Gender-based violence",
+      "Sexual misconduct",
+      "Sexual assault",
+      "Rape or attempted rape"
+    ],
+    "harassment_manifestations": {
+      "physical": [
+        "Unnecessary brushes or touches",
+        "Physical aggression (groping, pinching, patting)"
+      ],
+      "verbal": [
+        "Disparaging remarks about gender or physical appearance",
+        "Offensive comments causing discomfort",
+        "Sexual abuse (direct or disguised as humor)",
+        "Sex-based insults, taunts, teasing, name-calling",
+        "Whistling suggestively"
+      ],
+      "visual": [
+        "Leering at person/body parts",
+        "Obscene gestures",
+        "Displaying sexually graphic materials (posters, magazines, cartoons, graffiti)"
+      ],
+      "other": [
+        "Offering grades for sexual favors",
+        "Promises or threats after negative response to advances",
+        "Subtle pressure for sexual activity",
+        "Favoritism based on gender",
+        "Inappropriate advances on social media",
+        "Sexually explicit emails or texts"
+      ]
+    },
+    "reporting": {
+      "contact": {
+        "phone": "0782 539 361 (24 hours)",
+        "extension": "210",
+        "email": "gep@usiu.ac.ke"
+      },
+      "emergency_contacts": {
+        "police": "999 or 112",
+        "counselling": "748, 797, 746, 791",
+        "health_center": "730 116 720/760"
+      }
+    },
+    "sexual_assault_response": {
+      "immediate_actions": [
+        "Ensure safety - go to safe place",
+        "Call police (999 or 112), Counselling (748), or GEP Office (210)",
+        "Do not shower or bathe (preserves evidence)",
+        "Do not throw away or burn clothes",
+        "Avoid passing urine if possible (or collect in container)",
+        "Do not brush teeth or cut nails"
+      ],
+      "medical_care": [
+        "Seek assistance at nearest hospital within 72 hours",
+        "Get preventive treatment for HIV/AIDS, STIs, pregnancy",
+        "Fill Post Rape Care form (original and duplicate copies)"
+      ],
+      "reporting": [
+        "Report to university security and police",
+        "Seek psychological support (counseling)",
+        "Seek legal advice"
+      ]
+    }
+  },
+  "disciplinary_procedures": {
+    "filing_charges": {
+      "who_can_file": "Any member of university community or university department",
+      "where_to_file": "Dean of Students office or Gender and Equity Protection office",
+      "timeline": "Within 14 calendar days of infraction (can be extended up to 1 year by DVC Student Life)",
+      "investigation_start": "Within 10 working days of complaint receipt"
+    },
+    "hearing_procedures": {
+      "notification": "At least 5 working days notice of hearing",
+      "panel_composition": [
+        "Hearing Officer or designee (chair with casting vote)",
+        "Two students",
+        "One faculty member",
+        "One staff member"
+      ],
+      "quorum": "All 5 members must be present",
+      "student_rights": [
+        "Friendly advisor present (any university community member not directly involved)",
+        "Present witnesses",
+        "Give oral or written testimony",
+        "Request extension (within 2 days of notice receipt)"
+      ],
+      "hearing_type": "Closed to public (except immediate family member and advisor/witness)",
+      "record": "Record of proceedings maintained for 2 years or until appeals exhausted",
+      "decision_timeline": "Verdict within 30 calendar days after hearing"
+    },
+    "order_of_proceedings": [
+      "Introductions",
+      "Explanation of Student Disciplinary Procedure",
+      "Charges (in presence of alleged offender)",
+      "Evidence in support of charges",
+      "Witnesses in support of charges",
+      "Evidence in support of alleged offender",
+      "Witnesses in support of alleged offender",
+      "Review of evidence and testimony",
+      "Panel deliberations (after parties released)"
+    ],
+    "appeal_procedure": {
+      "timeline": "Within 5 working days of hearing outcome to DVCSL",
+      "grounds": [
+        "Proven errors in interpretation/implementation of procedures",
+        "New and significant evidence not previously presented",
+        "Lack of substantial evidence to support outcome"
+      ],
+      "decision_timeline": "Within 10 calendar days",
+      "finality": "DVC SL's ruling is conclusive"
+    }
+  },
+  "non_discrimination_policy": {
+    "policy": "Equal education and employment opportunities without unlawful discrimination, harassment, or retaliation",
+    "scope": "Between members of university community including students and employees",
+    "grievance_filing": {
+      "against_university_or_employee": "University Hearing Officer, HR Manager, DVC Student Life, or Gender and Equity Protection Office",
+      "against_students": "University Hearing Officer",
+      "against_faculty": "DVC Academic Affairs"
+    },
+    "investigation_principles": [
+      "Confidentiality maintained",
+      "Cooperation required (failure results in discipline)",
+      "Opportunity to present evidence",
+      "False evidence is serious infraction",
+      "False accusations subject to same sanctions as offense"
+    ],
+    "timeline": "Findings communicated within 30 days",
+    "appeals": "Handled per Article 6.2.6 procedures",
+    "records": "Staff in HR Office, students in DVC Student Life office"
+  },
+  "special_policies": {
+    "littering_graffiti": {
+      "prohibited": [
+        "Littering of university and environs",
+        "Writing graffiti on university buildings or property",
+        "Creating public nuisances (rowdy behavior, fighting, careless driving)"
+      ],
+      "enforcement": "Contact Security Office, Dean of Students, HR Office, or department manager"
+    },
+    "posters_media": {
+      "approval_required": "All SA-related posters, flyers, advertisements must be approved by SAC or SPAC",
+      "standards": [
+        "75% in English or translated",
+        "No prohibited items (drugs, cigarettes, alcohol)",
+        "Dated and signed",
+        "Event approved by Student Life Division officer"
+      ],
+      "removal": "Two weeks after posting (except election materials)",
+      "social_media": "Must comply with social media policy, reviewed by club patron and Marketing Director"
+    },
+    "facility_use": {
+      "priority": "Academic classes and activities take priority",
+      "reservation": "Through LibCal application at https://usiu-ke.libcal.com/",
+      "external_events": "Contact Advancement and Partnership Division",
+      "advance_notice": "At least one month for open spaces and sports fields",
+      "restrictions": [
+        "Must not violate non-discrimination policy",
+        "Must not violate Kenyan laws (including noise pollution)",
+        "Must not disturb university activities",
+        "Must not pose undue burden on resources",
+        "Fire/fireworks require approval from DVC FinOps and Head of Security"
+      ]
+    }
+  },
+  "student_bereavement": {
+    "principles": [
+      "Respect and dignity for student and family",
+      "Concern for well-being of campus community",
+      "Discretion in information disclosure",
+      "Cooperation with external officials",
+      "Transparency while respecting privacy"
+    ],
+    "notification": {
+      "coordinator": "Deputy Vice-Chancellor (Student Life)",
+      "family_liaison": "Dean of Students",
+      "official_communication": "Vice Chancellor or designate",
+      "media": "Handled by Vice Chancellor"
+    },
+    "student_death": {
+      "procedures": [
+        "Affected students may withdraw from semester",
+        "May apply for tuition fee exemption",
+        "Insurance benefit available (subject to policy terms)",
+        "Dean of Students advises beneficiaries on insurance process"
+      ]
+    },
+    "student_relative_death": {
+      "procedures": [
+        "Student notifies Dean of Students and school Dean",
+        "Request absence for specified period",
+        "Dean of Students manages support and counseling referral",
+        "Student given reasonable time to make up missed work",
+        "School Dean provides guidance on academic activities"
+      ]
+    }
+  }
+}

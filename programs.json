@@ -1,0 +1,845 @@
+{
+  "metadata": {
+    "version": "1.1",
+    "last_updated": "2026-02-04",
+    "total_programs": 3,
+    "institution": "USIU-Africa",
+    "note": "Additional program details and policies extracted from multiple brochures and handbooks"
+  },
+  "programs": [
+    {
+      "program_id": "BA_SOCIOLOGY",
+      "program_name": "Bachelor of Arts in Sociology",
+      "degree_type": "Bachelor of Arts (BA)",
+      "school": "School of Humanities and Social Sciences",
+      "total_units": 120,
+      "description": "Sociology is a cornerstone discipline in the Social Sciences that focuses on the objective study of human societies. The Bachelor of Arts (BA) in Sociology program will prepare learners for a lifetime of change and appreciation of diversity by equipping them with knowledge about human behavior, social organization, culture, and social change as well as teaching them research and writing skills.",
+      "learning_outcomes": [
+        "Assess social, economic, and political processes using divergent sociological perspectives/theories",
+        "Investigate a sociological problem using a range of sociological research strategies and methods of enquiry",
+        "Evaluate conceptual, theoretical and applied issues in community development and social welfare",
+        "Analyze conceptual, theoretical and applied issues in the sociological study of health and medicine",
+        "Analyze conceptual, theoretical and applied issues in sociological study of work and organizations"
+      ],
+      "admission_requirements": {
+        "minimum_grade": "C+ (Plus)",
+        "qualification": "Kenya Certificate of Secondary Education (KCSE) or its equivalent"
+      },
+      "curriculum": {
+        "general_education": {
+          "total_units": 39,
+          "signature_courses": 15,
+          "language_studies": 12,
+          "disciplinary_electives": 6,
+          "school_based_electives": 6
+        },
+        "core_courses": {
+          "total_units": 33,
+          "lower_level": 15,
+          "upper_level": 18,
+          "courses": [
+            {
+              "code": "SOC 1101",
+              "name": "Foundations of Sociology",
+              "units": 3
+            },
+            {
+              "code": "SOC 1102",
+              "name": "The Social Structure of Society",
+              "units": 3
+            },
+            {
+              "code": "PSY 2105",
+              "name": "Social Psychology",
+              "units": 3
+            },
+            {
+              "code": "SOC 2214",
+              "name": "Social Change",
+              "units": 3
+            },
+            {
+              "code": "SOC 2220",
+              "name": "Writing in Sociology",
+              "units": 3
+            },
+            {
+              "code": "SOC 3302",
+              "name": "Classical Sociological Theory",
+              "units": 3
+            },
+            {
+              "code": "SOC 3303",
+              "name": "Social Research Methods",
+              "units": 3
+            },
+            {
+              "code": "SOC 4401",
+              "name": "Modern Sociological Theory",
+              "units": 3
+            },
+            {
+              "code": "SOC 4402",
+              "name": "Micro Sociological Theories",
+              "units": 3
+            },
+            {
+              "code": "SOC 4403",
+              "name": "Data Analysis and Report Writing",
+              "units": 3
+            },
+            {
+              "code": "SOC 4900",
+              "name": "Research Project",
+              "units": 3
+            },
+            {
+              "code": "SOC 4910",
+              "name": "Sociology Internship",
+              "units": 3
+            }
+          ]
+        },
+        "concentrations": [
+          {
+            "name": "Community Development and Social Welfare",
+            "units": 24,
+            "courses": [
+              "SOC 2209 Social Problems",
+              "SOC 2217 Social Inequality",
+              "SOC 2218 Social Gerontology",
+              "SOC 3306 Community Development and Social Welfare",
+              "SOC 3307 Community Leadership",
+              "SOC 3317 Social Conflict and Resolution",
+              "SOC 3324 Sociology of Project Planning and Management",
+              "SOC 3325 Participatory Project Monitoring & Evaluation",
+              "SOC 4410 Child Protection and Welfare Practices",
+              "SOC 4414 Rural Sociology",
+              "SOC 4416 Public Policy and Administration",
+              "SOC 4421 Special Topics in Sociology"
+            ]
+          },
+          {
+            "name": "Health and Medicine",
+            "units": 24,
+            "courses": [
+              "SOC 2207 Concepts of Health and Illness",
+              "SOC 2208 Bioethics",
+              "SOC 2209 Social Problems",
+              "PSY 3171 Social Psychology of Health and Care",
+              "SOC 3309 Sociology of Health and Medicine",
+              "SOC 3311 Lifestyle Diseases and Illnesses",
+              "SOC 3312 Sociology of Mental Health and Illness",
+              "SOC 3318 Healthcare Systems in Developing Countries",
+              "HSC 4010 Sociology of Health Sciences",
+              "SOC 4406 Traditional and Alternative Medical Systems",
+              "SOC 4421 Special Topics in Sociology"
+            ]
+          },
+          {
+            "name": "Work and Organizations",
+            "units": 24,
+            "courses": [
+              "SOC 2209 Social Problems",
+              "SOC 2213 Sociology of the Family",
+              "SOC 2217 Social Inequality",
+              "SOC 3308 Formal Organizations",
+              "SOC 3319 Sociology of Work",
+              "SOC 3320 Urban Sociology",
+              "SOC 3322 Industrial Sociology",
+              "MGT 4040 Human Resource Management",
+              "SOC 4407 Sociology of Occupations and Professions",
+              "SOC 4418 Labor Relations and Collective Bargaining",
+              "SOC 4421 Special Topics in Sociology"
+            ]
+          }
+        ],
+        "electives": {
+          "units": 9,
+          "courses": [
+            "SOC 2212 Sociology of Gender",
+            "SOC 2215 Sociology of Religion",
+            "SOC 2216 Sociology of Education",
+            "SOC 3305 Deviant Behavior",
+            "SOC 3313 Political Sociology",
+            "SOC 3314 Environmental Sociology",
+            "SOC 3316 Sociology of Development",
+            "SOC 3321 Race and Ethnic Relations",
+            "SOC 3323 Social Demography",
+            "SOC 4412 Collective Behavior and Social Movements",
+            "SOC 4415 Sociology of Law",
+            "SOC 4419 Sociology of Mass Communication"
+          ]
+        },
+        "minor": {
+          "units": 15,
+          "description": "1 lower level course and 4 upper level courses from other Schools"
+        }
+      },
+      "career_opportunities": [
+        "Human Resources Specialist",
+        "Community Development Officer",
+        "Policy Analyst",
+        "Market Research Analyst",
+        "NGO Program Coordinator",
+        "Case Manager",
+        "Corporate Social Responsibility (CSR) Manager",
+        "Probation Officer",
+        "Healthcare Administrator"
+      ]
+    },
+    {
+      "program_id": "BSC_AI_ROBOTICS",
+      "program_name": "Bachelor of Science in Artificial Intelligence (AI) & Robotics",
+      "degree_type": "Bachelor of Science (BSc)",
+      "school": "School of Science & Technology",
+      "total_units": 150,
+      "description": "The philosophy of the Bachelor of Science in Artificial Intelligence (AI) and Robotics is to equip students with advanced knowledge and skills in AI within an intellectually stimulating, culturally diverse, and growth-oriented environment. The program prepares graduates to design and operate a wide range of intelligent systems, including computer vision applications, speech and audio recognition, optical character recognition, computer-aided manufacturing, computer-assisted surgery, autonomous vehicles and drones, intelligent commerce, transport and logistics systems and smart energy solutions.",
+      "special_features": [
+        "Optional exchange program as an alternative to local internship",
+        "Global perspective through international opportunities"
+      ],
+      "learning_outcomes": [
+        "Apply the principles and mechanisms underlying various kinds of intelligent processes, Artificial Intelligence and Robotics systems",
+        "Design systems that simulate natural intelligence using Artificial Intelligence and Robotics tools and techniques to solve problems in the society",
+        "Develop systems that incorporate Artificial intelligence and Robotics techniques both individually and as a team to solve problems in the society",
+        "Managing an AI/robotics project aligned with professional standards",
+        "Conduct research on emerging AI/robotics trends, with clear methodology, analysis and conclusions"
+      ],
+      "admission_requirements": {
+        "minimum_grade": "C+ (Plus)",
+        "qualification": "Kenya Certificate of Secondary Education (KCSE) or its equivalent",
+        "subject_requirements": {
+          "mathematics": "C+",
+          "science": "C+ in Physical Science or Physics"
+        }
+      },
+      "curriculum": {
+        "general_education": {
+          "total_units": 39,
+          "signature_courses": 15,
+          "language_studies": 12,
+          "disciplinary_electives": 6,
+          "school_based_electives": 6,
+          "mandatory_electives": [
+            "NSC 2215 Introduction to Physical Mechanics"
+          ]
+        },
+        "core_courses": {
+          "total_units": 111,
+          "foundational_engineering_math": {
+            "units": 30,
+            "courses": [
+              {
+                "code": "MTH 1025",
+                "name": "Calculus I",
+                "units": 3
+              },
+              {
+                "code": "STA 1020",
+                "name": "Probability and Statistics I",
+                "units": 3
+              },
+              {
+                "code": "MTH 1040",
+                "name": "Linear Algebra",
+                "units": 3
+              },
+              {
+                "code": "AIR 1050",
+                "name": "Principles of Electrical & Electronic Engineering",
+                "units": 3
+              },
+              {
+                "code": "MTH 2025",
+                "name": "Calculus II",
+                "units": 3
+              },
+              {
+                "code": "MTH 2215",
+                "name": "Discrete Mathematics For Data Science",
+                "units": 3
+              },
+              {
+                "code": "APT 2030",
+                "name": "Digital Electronics",
+                "units": 3
+              },
+              {
+                "code": "AIR 2030",
+                "name": "Digital Signal Processing",
+                "units": 3
+              },
+              {
+                "code": "STA 3040",
+                "name": "Mathematical Modelling and Simulation",
+                "units": 3
+              },
+              {
+                "code": "STA 4030",
+                "name": "Bayesian Inference and Decision Theory",
+                "units": 3
+              }
+            ]
+          },
+          "computer_science": {
+            "units": 27,
+            "courses": [
+              {
+                "code": "IST 1025",
+                "name": "Introduction to Programming",
+                "units": 3
+              },
+              {
+                "code": "APT 1040",
+                "name": "Introduction to Web design and Applications",
+                "units": 3
+              },
+              {
+                "code": "APT 1050",
+                "name": "Database Systems",
+                "units": 3
+              },
+              {
+                "code": "SWE 1020",
+                "name": "Data Structure analysis and algorithms",
+                "units": 3
+              },
+              {
+                "code": "IST 2010",
+                "name": "Computer Organization and Assembly Programming",
+                "units": 3
+              },
+              {
+                "code": "APT 2040",
+                "name": "Operating Systems",
+                "units": 3
+              },
+              {
+                "code": "APT 2050",
+                "name": "Computer Networks and Telecommunication",
+                "units": 3
+              },
+              {
+                "code": "APT 3040",
+                "name": "Object Oriented Analysis Design and Programming",
+                "units": 3
+              },
+              {
+                "code": "IST 3050",
+                "name": "Introduction to Security Systems",
+                "units": 3
+              }
+            ]
+          },
+          "ai_robotics_specialization": {
+            "units": 54,
+            "courses": [
+              {
+                "code": "AIR 2010",
+                "name": "Introduction to Robotics",
+                "units": 3
+              },
+              {
+                "code": "AIR 2040",
+                "name": "Real-Time Software Engineering",
+                "units": 3
+              },
+              {
+                "code": "AIR 3010",
+                "name": "Design of Real-Time Systems",
+                "units": 3
+              },
+              {
+                "code": "AIR 3060",
+                "name": "Robotics Applications Programming",
+                "units": 3
+              },
+              {
+                "code": "AIR 3080",
+                "name": "Artificial Intelligence and Robotics Practicum",
+                "units": 3
+              },
+              {
+                "code": "APT 3010",
+                "name": "Introduction to Artificial Intelligence",
+                "units": 3
+              },
+              {
+                "code": "APT 3025",
+                "name": "Applied Machine Learning",
+                "units": 3
+              },
+              {
+                "code": "DST 4020",
+                "name": "Mobile Computing",
+                "units": 3
+              },
+              {
+                "code": "AIR 4010",
+                "name": "Deep Learning and Computer Vision",
+                "units": 3
+              },
+              {
+                "code": "AIR 4020",
+                "name": "Human-Robot Interaction",
+                "units": 3
+              },
+              {
+                "code": "AIR 4040",
+                "name": "Reinforcement learning for robotics",
+                "units": 3
+              },
+              {
+                "code": "AIR 4050",
+                "name": "Intelligent Multi-Agent Systems",
+                "units": 3
+              },
+              {
+                "code": "AIR 4060",
+                "name": "Engineering and Informatics Ethics and Law",
+                "units": 3
+              },
+              {
+                "code": "AIR 4070",
+                "name": "Robotics Design",
+                "units": 3
+              },
+              {
+                "code": "AIR 4080",
+                "name": "Industrial Automation and Robotics",
+                "units": 3
+              },
+              {
+                "code": "AIR 4090",
+                "name": "Speech and Natural Language Processing",
+                "units": 3
+              },
+              {
+                "code": "AIR 4900",
+                "name": "AI & Robotics Design Science Research Project",
+                "units": 3
+              },
+              {
+                "code": "AIR 4910",
+                "name": "Artificial Intelligence and Robotics Internship",
+                "units": 3
+              }
+            ]
+          }
+        }
+      },
+      "career_opportunities": [
+        "Industrial Automation Engineer",
+        "Robot Developers",
+        "Intelligent Systems Engineer",
+        "Smart Infrastructure & IoT Engineers",
+        "Trainer and Researcher in AI and Robotics"
+      ]
+    },
+    {
+      "program_id": "BSC_NURSING",
+      "program_name": "Bachelor of Science in Nursing",
+      "degree_type": "Bachelor of Science (BSc)",
+      "school": "School of Pharmacy and Health Sciences",
+      "total_units": 240,
+      "description": "The goal of the program is to cultivate life-long learners and innovative healthcare professionals who will provide comprehensive nursing care across all levels of the health system. Graduates will be equipped to deliver ethical, culturally competent, and evidence-based nursing services; engage in critical inquiry and research; assume leadership roles in nursing education and administration; and actively contribute to global health initiatives.",
+      "program_emphasis": [
+        "Development of critical thinking skills",
+        "Social responsibility",
+        "Commitment to continuous professional growth",
+        "Adapting to evolving healthcare challenges"
+      ],
+      "learning_outcomes": [
+        "Integrate knowledge, behavioral skills, and a compassionate attitude in delivering patient-centered nursing care across diverse healthcare settings",
+        "Participate in decision making on health service delivery in varied global settings based on comprehensive health assessment",
+        "Provide ethical and evidence-based nursing care to individuals, families, and communities",
+        "Manage promotive, preventive, curative and rehabilitative health services in varied global settings",
+        "Design and implement nursing training curricula within an acceptable professional, legal, and ethical framework"
+      ],
+      "admission_requirements": {
+        "options": [
+          {
+            "type": "KCSE Alternative A",
+            "requirements": {
+              "minimum_grade": "C+ (Plus)",
+              "biology": "C+",
+              "chemistry": "C+",
+              "math_or_physics": "C+",
+              "english_or_kiswahili": "C+"
+            }
+          },
+          {
+            "type": "KCSE Alternative B",
+            "requirements": {
+              "minimum_grade": "C+ (Plus)",
+              "biological_sciences": "C+",
+              "physical_sciences": "C+",
+              "mathematics": "C+",
+              "english_or_kiswahili": "C+"
+            }
+          },
+          {
+            "type": "A-Level",
+            "requirements": {
+              "principal_passes": [
+                "Biology",
+                "Chemistry"
+              ],
+              "subsidiary_pass": "Physics or Mathematics"
+            }
+          },
+          {
+            "type": "Diploma in Nursing",
+            "requirements": {
+              "qualification": "Diploma in Nursing from a recognized medical training institution or its equivalent",
+              "license": "Must have been licensed by the Nursing Council of Kenya"
+            }
+          },
+          {
+            "type": "Degree Transfer",
+            "requirements": {
+              "qualification": "Holders of a degree in Biological Sciences or equivalent from a recognized university"
+            }
+          }
+        ]
+      },
+      "curriculum": {
+        "general_education": {
+          "total_units": 39,
+          "signature_courses": 15,
+          "language_studies": 12,
+          "disciplinary_electives": 6,
+          "school_based_electives": 6
+        },
+        "core_courses": {
+          "total_units": 201,
+          "lower_level": {
+            "units": 110,
+            "key_courses": [
+              {
+                "code": "BST 1010",
+                "name": "Introduction to Biostatistics",
+                "units": 3
+              },
+              {
+                "code": "EPI 1000",
+                "name": "Introduction to Epidemiology",
+                "units": 3
+              },
+              {
+                "code": "HAN 1211",
+                "name": "Human Anatomy I (Histology and embryology)",
+                "units": 4.5
+              },
+              {
+                "code": "PHY 1212",
+                "name": "Medical Physiology I (Body systems)",
+                "units": 3
+              },
+              {
+                "code": "HAN 1221",
+                "name": "Human Anatomy II (Head and neck)",
+                "units": 4.5
+              },
+              {
+                "code": "PHY 1222",
+                "name": "Medical Physiology II (Endocrine, reproductive and urinary system)",
+                "units": 4.5
+              },
+              {
+                "code": "BCM 1223",
+                "name": "Medical Biochemistry I (Biomolecules)",
+                "units": 3
+              },
+              {
+                "code": "HAN 1231",
+                "name": "Human Anatomy III (gross anatomy)",
+                "units": 4.5
+              },
+              {
+                "code": "PHY 1232",
+                "name": "Medical Physiology III (CVS, respiratory system)",
+                "units": 3
+              },
+              {
+                "code": "BCM 1233",
+                "name": "Medical Biochemistry II (Metabolism)",
+                "units": 3
+              },
+              {
+                "code": "NUR 1313",
+                "name": "Professionalism and Nursing theories",
+                "units": 3
+              },
+              {
+                "code": "NUR 1314",
+                "name": "Counseling and communication",
+                "units": 3
+              },
+              {
+                "code": "NUR 1321",
+                "name": "Fundamental of nursing practice",
+                "units": 4.5
+              },
+              {
+                "code": "NUR 1322",
+                "name": "Nutrition and Health",
+                "units": 3
+              },
+              {
+                "code": "PHM 1336",
+                "name": "Clinical Pharmacology I",
+                "units": 3
+              },
+              {
+                "code": "SOS 2207",
+                "name": "Medical sociology and Anthropology",
+                "units": 3
+              },
+              {
+                "code": "BCM 2216",
+                "name": "Clinical Chemistry and Hematology",
+                "units": 4.5
+              },
+              {
+                "code": "NUR 2311",
+                "name": "Health assessment",
+                "units": 4.5
+              },
+              {
+                "code": "PHM 2312",
+                "name": "Clinical Pharmacology II",
+                "units": 3
+              },
+              {
+                "code": "NUR 2313",
+                "name": "Medical surgical Nursing I",
+                "units": 3
+              },
+              {
+                "code": "NUR 2314",
+                "name": "Midwifery I",
+                "units": 3
+              },
+              {
+                "code": "NUR 2322",
+                "name": "Community Health Nursing I",
+                "units": 3
+              },
+              {
+                "code": "NUR 2323",
+                "name": "Medical surgical Nursing II",
+                "units": 4.5
+              },
+              {
+                "code": "NUR 2324",
+                "name": "Sexual and reproductive health",
+                "units": 3
+              },
+              {
+                "code": "NUR 2326",
+                "name": "Midwifery II",
+                "units": 4.5
+              },
+              {
+                "code": "CNP 2331",
+                "name": "Medical and surgical Clinical Placement I",
+                "units": 9
+              },
+              {
+                "code": "CNP 2332",
+                "name": "Midwifery Clinical Placement I",
+                "units": 5
+              },
+              {
+                "code": "MIC 2365",
+                "name": "Medical Bacteriology and Mycology",
+                "units": 4.5
+              },
+              {
+                "code": "MIC 2362",
+                "name": "Virology and Immunology",
+                "units": 3
+              }
+            ]
+          },
+          "upper_level": {
+            "units": 112.5,
+            "key_courses": [
+              {
+                "code": "PHM 3112",
+                "name": "Clinical Pharmacology III",
+                "units": 3
+              },
+              {
+                "code": "MIC 3267",
+                "name": "Medical Parasitology and Entomology",
+                "units": 4.5
+              },
+              {
+                "code": "NUR 3311",
+                "name": "Communicable and vector borne diseases",
+                "units": 3
+              },
+              {
+                "code": "NUR 3312",
+                "name": "Midwifery III (Puerperium and Newborn)",
+                "units": 4.5
+              },
+              {
+                "code": "NUR 3313",
+                "name": "Community Health Nursing II",
+                "units": 3
+              },
+              {
+                "code": "NUR 3314",
+                "name": "Pediatric nursing",
+                "units": 3
+              },
+              {
+                "code": "NUR 3316",
+                "name": "Gynecological Nursing",
+                "units": 3
+              },
+              {
+                "code": "NUR 3317",
+                "name": "Medical Surgical Nursing III",
+                "units": 3
+              },
+              {
+                "code": "CNP 3321",
+                "name": "Pediatric Ward Clinical placement",
+                "units": 4
+              },
+              {
+                "code": "CNP 3322",
+                "name": "Medical and surgical Clinical Placement II",
+                "units": 4
+              },
+              {
+                "code": "CNP 3323",
+                "name": "Midwifery Clinical Placement II",
+                "units": 4.5
+              },
+              {
+                "code": "CNP 3331",
+                "name": "Midwifery Clinical Placement III",
+                "units": 4.5
+              },
+              {
+                "code": "CNP 3332",
+                "name": "Community health Placement",
+                "units": 8
+              },
+              {
+                "code": "GNP 3333",
+                "name": "Global Nursing Practice II",
+                "units": 3
+              },
+              {
+                "code": "PAT 3371",
+                "name": "Human Pathology",
+                "units": 3
+              },
+              {
+                "code": "HSC 3395",
+                "name": "Environment and occupational health",
+                "units": 3
+              },
+              {
+                "code": "NUR 4311",
+                "name": "Medical surgical (specialties) I",
+                "units": 4.5
+              },
+              {
+                "code": "NUR 4312",
+                "name": "Medical surgical (specialties) II",
+                "units": 3
+              },
+              {
+                "code": "NUR 4313",
+                "name": "Medical surgical (specialties) III",
+                "units": 3
+              },
+              {
+                "code": "NUR 4314",
+                "name": "Mental health and Psychiatric Nursing",
+                "units": 3
+              },
+              {
+                "code": "NUR 4315",
+                "name": "Leadership and Management in Nursing",
+                "units": 3
+              },
+              {
+                "code": "NUR 4316",
+                "name": "Curriculum and Instruction in nursing",
+                "units": 3
+              },
+              {
+                "code": "NUR 4317",
+                "name": "Research Proposal",
+                "units": 3
+              },
+              {
+                "code": "CNP 4321",
+                "name": "Medical Surgical specialties Clinical Placement",
+                "units": 12
+              },
+              {
+                "code": "NUR 4322",
+                "name": "Research Report",
+                "units": 3
+              },
+              {
+                "code": "CNP 4331",
+                "name": "Teaching Practice",
+                "units": 4
+              },
+              {
+                "code": "CNP 4332",
+                "name": "Mental Health Nursing clinical placement",
+                "units": 4
+              },
+              {
+                "code": "CNP 4333",
+                "name": "Ward unit leadership Management and governance",
+                "units": 3
+              }
+            ]
+          }
+        }
+      },
+      "career_opportunities": [
+        "Registered Nurse (RN) - providing direct patient care in hospitals, clinics, nursing homes, and community health centers"
+      ]
+    }
+  ],
+  "general_info": {
+    "accreditation": [
+      "Commission for University Education (CUE) - Kenya",
+      "WASC Senior College and University Commission - United States",
+      "Nursing Council of Kenya (NCK)"
+    ],
+    "contact": {
+      "address": "P.O. Box 14634 - 00800, USIU Road, Off Thika Road (Exit 7), Nairobi, Kenya",
+      "phone": [
+        "+254 730 116 290",
+        "+254 730 116 291",
+        "+254 730 116 247",
+        "+254 730 116 300",
+        "+254 730 116 397",
+        "+254 730 116 503",
+        "+254 730 116 522",
+        "+254 755 844 849"
+      ],
+      "email": "admit@usiu.ac.ke",
+      "website": "www.usiu.ac.ke",
+      "social_media": {
+        "twitter": "@USIU-Africa",
+        "instagram": "@ExperienceUSIU"
+      }
+    }
+  }
+}

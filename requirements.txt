@@ -1,0 +1,29 @@
+# Core Framework
+fastapi==0.109.0
+uvicorn==0.27.0
+pydantic==2.5.3
+
+# LLM Providers (Free options)
+groq==0.4.2
+ollama==0.1.6
+
+# LangChain Core (Stable versions)
+langchain==0.1.20
+langchain-core==0.1.52
+langchain-community==0.0.38
+langchain-groq==0.0.1
+
+# Vector Store & Embeddings (Free)
+chromadb==0.4.24
+sentence-transformers==2.3.1
+
+# UI
+streamlit==1.31.0
+requests==2.31.0
+
+# Utilities
+python-dotenv==1.0.1
+pyyaml==6.0.1
+
+# JSON handling
+jsonschema==4.21.1

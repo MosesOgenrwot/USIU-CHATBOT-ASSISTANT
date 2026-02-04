@@ -1,0 +1,508 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2026-02-04",
+    "institution": "USIU-Africa",
+    "document": "Mastercard Foundation Scholars Graduation Booklet 2024"
+  },
+  "program_overview": {
+    "name": "Mastercard Foundation Scholars Program at USIU-Africa",
+    "partnership_start": "July 2020",
+    "first_cohort_enrollment": "September 2020",
+    "target": "1,100 youth to recruit, educate, prepare, and transition into dignified work, higher education, or entrepreneurship",
+    "level": "Bachelor's level only",
+    "total_scholars_recruited": 1071,
+    "cohorts": 9,
+    "first_graduation": 2024,
+    "first_cohort_size": 17
+  },
+  "recruitment_focus": {
+    "categories": [
+      {
+        "category": "Young women",
+        "target_percentage": "70%",
+        "actual_percentage": "64%",
+        "actual_number": 684
+      },
+      {
+        "category": "Refugee youth/Internally displaced youth",
+        "target_percentage": "25%",
+        "actual_percentage": "20%",
+        "actual_number": 214
+      },
+      {
+        "category": "Youth with disability",
+        "target_percentage": "10%",
+        "actual_percentage": "6%",
+        "actual_number": 68
+      }
+    ],
+    "geographic_scope": {
+      "african_countries": 29,
+      "kenyan_counties": "All 47 counties",
+      "refugee_host_countries": 13,
+      "international_scholars_percentage": "62%",
+      "international_scholars_number": 663,
+      "kenyan_scholars_percentage": "38%",
+      "kenyan_scholars_number": 409
+    }
+  },
+  "academic_programs": {
+    "market_driven_programs": 13,
+    "stem_enrollment": {
+      "percentage": "55%",
+      "disciplines": "STEM-based disciplines"
+    },
+    "non_stem_enrollment": {
+      "percentage": "45%",
+      "disciplines": "Business and social sciences-related programs"
+    },
+    "first_cohort_distribution": {
+      "stem": {
+        "percentage": "47%",
+        "number": 8
+      },
+      "non_stem": {
+        "percentage": "53%",
+        "number": 9
+      }
+    }
+  },
+  "program_structure": {
+    "components": [
+      "World-class university education",
+      "Leadership development",
+      "Community service emphasis",
+      "Entrepreneurship training",
+      "Transformative leadership training",
+      "Career services",
+      "Transitions support"
+    ],
+    "training_providers": {
+      "entrepreneurship": "United Social Ventures",
+      "leadership": "Various partners",
+      "careers": "USIU-Africa Placement and Career Services"
+    }
+  },
+  "support_services": {
+    "recruitment_selection": {
+      "team_members": [
+        {
+          "name": "Dr. George Lumbasi",
+          "role": "Chair, Recruitment and Selection Committee",
+          "extension": "730116563",
+          "email": "glumbasi@usiu.ac.ke"
+        },
+        {
+          "name": "Rahab Wambui Cheche",
+          "role": "Program Officer - Recruitment and Selection",
+          "extension": "730116218",
+          "email": "rcheche@usiu.ac.ke"
+        },
+        {
+          "name": "Faith Kendi Mugambi",
+          "role": "Program Officer - Recruitment and Selection",
+          "extension": "730116500",
+          "email": "fkendi@usiu.ac.ke"
+        }
+      ]
+    },
+    "program_management": {
+      "director": {
+        "name": "Linet Aguko",
+        "role": "Program Director",
+        "extension": "730116527",
+        "email": "laguko@usiu.ac.ke"
+      },
+      "administrator": {
+        "name": "Sellina Mwatua",
+        "role": "Program Administrator",
+        "extension": "730116521",
+        "email": "smwutua@usiu.ac.ke"
+      }
+    },
+    "transitions": {
+      "coordinator": {
+        "name": "Madzo Mwadzoya",
+        "role": "Program Coordinator, Transitions",
+        "extension": "730116581",
+        "email": "emwadzoya@usiu.ac.ke"
+      },
+      "careers_placement": [
+        {
+          "name": "Lilian Makinia",
+          "role": "Program Assistant, Careers and Placement",
+          "extension": "730116536",
+          "email": "lmakinia@usiu.ac.ke"
+        },
+        {
+          "name": "Vincent Omondi Juma",
+          "role": "Program Assistant, Careers and Placement",
+          "extension": "730116552"
+        },
+        {
+          "name": "Dolly Mwiti",
+          "role": "Assistant Careers and Placement Officer - Transitions",
+          "extension": "730116658"
+        }
+      ]
+    },
+    "scholar_support": [
+      {
+        "name": "Margaret Obilo",
+        "role": "Scholar Support Officer",
+        "extension": "730116303",
+        "email": "mobilo@usiu.ac.ke"
+      },
+      {
+        "name": "Aileen Naureen Kaguhya",
+        "role": "Program Assistant - Scholar Support",
+        "extension": "730116567"
+      },
+      {
+        "name": "Maureen Njuguna",
+        "role": "Program Assistant, Sign Language Interpreter and Scholar Support Officer",
+        "email": "mnnjuguna@usiu.ac.ke"
+      }
+    ],
+    "disability_inclusion": {
+      "officer": {
+        "name": "Samson Rotich",
+        "role": "Disability and Inclusion Officer",
+        "extension": "730116173",
+        "email": "skrotich@usiu.ac.ke"
+      },
+      "sign_language": {
+        "name": "Nancy Njoki",
+        "role": "Program Associate, Sign Language Interpreter and Assistant Communication Officer",
+        "email": "nanjoki@usiu.ac.ke"
+      }
+    },
+    "counseling": {
+      "counselor": {
+        "name": "Zina Njoki Nguru",
+        "role": "Senior Counsellor",
+        "extension": "730116797",
+        "email": "znguru@usiu.ac.ke"
+      }
+    },
+    "gender_equity": {
+      "officer": {
+        "name": "Racheal Ngumi",
+        "role": "Principal Officer, Gender Equity and Protection",
+        "extension": "730116303",
+        "email": "rngumi@usiu.ac.ke"
+      }
+    },
+    "other_support": [
+      {
+        "name": "Bronwyn Simiyu",
+        "role": "Program Officer – Records and Immigration",
+        "extension": "730116107",
+        "email": "bnsimiyu@usiu.ac.ke"
+      },
+      {
+        "name": "Roselyne Mkanjala",
+        "role": "Program Accountant",
+        "extension": "730116148",
+        "email": "rmwasi@usiu.ac.ke"
+      },
+      {
+        "name": "Kevin Otieno Omenya",
+        "role": "Program Associate, Finance",
+        "extension": "730116552"
+      },
+      {
+        "name": "Sylvia N. Murungaru",
+        "role": "Monitoring, Evaluation and Impact Research Officer",
+        "extension": "730116301",
+        "email": "smurungaru@usiu.ac.ke"
+      },
+      {
+        "name": "Brenda A. Odhiambo",
+        "role": "Program Communications Lead",
+        "extension": "730116502",
+        "email": "baodhiambo@usiu.ac.ke"
+      }
+    ]
+  },
+  "partnerships": {
+    "recruitment_partners": {
+      "total": "40+",
+      "types": [
+        "UNHCR offices in various countries",
+        "Schools",
+        "Organizations supporting youth education access"
+      ],
+      "support_provided": [
+        "Spreading information about applications",
+        "Providing internet, printing, and scanning services",
+        "Hosting students during interviews",
+        "Organizing interview logistics",
+        "Processing passports and travel documents",
+        "Transport logistics",
+        "Information sessions",
+        "Home visits coordination",
+        "Document processing funds"
+      ]
+    },
+    "transitions_partners": {
+      "total": "32+",
+      "support_areas": [
+        "Entrepreneurship capacity building",
+        "Transformative Leadership & community engagement",
+        "Career Services",
+        "Alumni engagement",
+        "Internship and volunteer opportunities",
+        "Coaching and mentorship",
+        "Job placement opportunities",
+        "Community give back collaboration"
+      ]
+    }
+  },
+  "key_initiatives": {
+    "social_venture_challenge": {
+      "year": 2023,
+      "winners": 13,
+      "partnership": "Mastercard Foundation and Resolution Project",
+      "purpose": "Identify young leaders focused on community impact through social entrepreneurship",
+      "projects_shortlisted": 7,
+      "winning_projects": 6,
+      "funding": "$26,000 total",
+      "focus_areas": [
+        "Inclusion",
+        "Agriculture",
+        "Entrepreneurship",
+        "Clean Eco-Fuel"
+      ]
+    },
+    "scholar_connect": {
+      "description": "Annual events for Mastercard Foundation Scholars from different countries",
+      "purpose": "Exchange ideas and build lasting friendships"
+    },
+    "scholar_day_of_service": {
+      "description": "Community service projects led by scholars",
+      "examples": [
+        "Shadow Mountain Children's Home dormitory renovation",
+        "Kavilinguni Primary School desk provision",
+        "Limoro Primary School book donation"
+      ]
+    }
+  },
+  "milestones": [
+    {
+      "date": "July 2020",
+      "event": "USIU-Africa and Mastercard Foundation announce partnership",
+      "details": "1,000 high-performing students to receive quality education and leadership development over 10 years"
+    },
+    {
+      "date": "September 2020",
+      "event": "Inaugural cohort commissioned",
+      "details": "24 students from 6,077 applications"
+    },
+    {
+      "date": "May 2021",
+      "event": "Second cohort welcomed",
+      "details": "48 scholars from 3,500 applicants"
+    },
+    {
+      "date": "October 2021",
+      "event": "Third cohort - first women-only cohort",
+      "details": "82 female students and 19 male students"
+    },
+    {
+      "date": "June 2022",
+      "event": "Fourth cohort welcomed",
+      "details": "86 scholars, 10th anniversary celebration"
+    },
+    {
+      "date": "October 2022",
+      "event": "Fifth cohort commissioned",
+      "details": "138 scholars from 20 African countries (Sierra Leone, Lesotho, Eswatini, Ethiopia represented for first time)"
+    },
+    {
+      "date": "April 2023",
+      "event": "Sixth cohort welcomed",
+      "details": "203 scholars"
+    },
+    {
+      "date": "August 2023",
+      "event": "Seventh cohort welcomed",
+      "details": "184 scholars"
+    },
+    {
+      "date": "September 2023",
+      "event": "Social Venture Challenge winners announced",
+      "details": "13 scholars selected as 2023 winners at Baobab Summit"
+    },
+    {
+      "date": "October 2023",
+      "event": "Mastercard Foundation President Reeta Roy visits USIU-Africa",
+      "details": "Discussion of partnership and scholar experiences"
+    },
+    {
+      "date": "November 2023",
+      "event": "Age limit increase for inclusive recruitment",
+      "details": "Age limit increased from 29 to 32 years for refugees, IDPs, and PWDs; rolling basis recruitment introduced"
+    },
+    {
+      "date": "April 2024",
+      "event": "Eighth cohort welcomed",
+      "details": "61 scholars"
+    },
+    {
+      "date": "September 2024",
+      "event": "Ninth cohort welcomed (largest)",
+      "details": "245 scholars"
+    },
+    {
+      "date": "2024",
+      "event": "First cohort graduation",
+      "details": "17 scholars graduate (71% women, 22% refugees/displaced, 6% PWDs)"
+    }
+  ],
+  "alumni_network": {
+    "vision": "Create an inclusive and supportive Alumni network that drives positive change and innovation",
+    "engagement_areas": [
+      "Membership in USIU-Africa Alumni Association",
+      "Community and Network Building",
+      "Mentorship and Professional Development",
+      "Continued Support and Resources",
+      "Impactful Initiatives and Giving Back",
+      "Celebrating Success"
+    ],
+    "offices_providing_support": [
+      "Careers and Placement Office",
+      "Innovation and Entrepreneurship Office",
+      "Community and Alumni Engagement Office"
+    ],
+    "contact": {
+      "name": "Lilian Makinia",
+      "email": "lmakinia@usiu.ac.ke",
+      "phone": "+254730116536"
+    }
+  },
+  "graduating_class_2024": {
+    "total": 17,
+    "gender_distribution": {
+      "women": {
+        "percentage": "71%",
+        "number": 12
+      },
+      "men": {
+        "percentage": "29%",
+        "number": 5
+      }
+    },
+    "refugee_displaced": {
+      "percentage": "22%"
+    },
+    "persons_with_disabilities": {
+      "percentage": "6%"
+    },
+    "programs": [
+      {
+        "program": "Bachelor of Science in Information Systems and Technology",
+        "count": 2,
+        "graduates": ["Virginia Njeri", "Yasmin Kwach"]
+      },
+      {
+        "program": "Bachelor of Science in Applied Computer Technology",
+        "count": 3,
+        "graduates": ["Faith Mwikali", "Amos Onyancha", "Alice Wanjira Jeremoki"]
+      },
+      {
+        "program": "Bachelor of Arts in International Relations",
+        "count": 4,
+        "graduates": ["Joyce Achieng'", "Gloire Koko Buroko", "Catherine Nafula", "Hanna Nyamal"]
+      },
+      {
+        "program": "Bachelor of Science in International Business Administration",
+        "count": 2,
+        "graduates": ["Fatha Mohamed", "Frida Atieno Yagomba"]
+      },
+      {
+        "program": "Bachelor of Arts in Psychology",
+        "count": 3,
+        "graduates": ["Doris Kendi", "Kharis Ilunga", "Wangari Maryann Muthoni"]
+      },
+      {
+        "program": "Bachelor of Arts in Film Production & Directing",
+        "count": 2,
+        "graduates": ["Silas Ooko Otieno", "Hedwig Macharia Onkundi"]
+      },
+      {
+        "program": "Bachelor of Science in Finance",
+        "count": 1,
+        "graduates": ["Titus Odiero"]
+      }
+    ]
+  },
+  "notable_achievements": {
+    "eco_clean_fuel_project": {
+      "winners": ["Silas Ooko", "Pride Nyando", "Titus Ayieko"],
+      "award": "2023 Social Venture Challenge 3rd place",
+      "fellowship": "Resolution Fellows",
+      "description": "AI-integrated clean fuel from sugarcane waste, agricultural residue, and municipal waste",
+      "impact": "15+ jobs created, 5,000+ users in Kisumu and Siaya",
+      "benefits": [
+        "Seed funding",
+        "Pro bono services",
+        "Mentorship",
+        "Global network access"
+      ]
+    },
+    "africa_potato_giants": {
+      "description": "Certified potato seeds provision to farmers in Nyandarua County",
+      "recognition": "Social Venture Challenge winner"
+    },
+    "whispers_talk": {
+      "team_leader": "Alice Wanjira Jeremoki",
+      "achievement": "3rd place in Digital Transformation Center Kenya hackathon",
+      "description": "AI-integrated language translation web application",
+      "competition": "20 groups at Windsor Hotel, Nairobi (May 2024)"
+    },
+    "community_hope_revival": {
+      "founder": "Hanna Nyamal Yohanis",
+      "role": "Co-founder and Chairperson",
+      "members": 15,
+      "focus": "South Sudanese refugee youth welfare in Kenya",
+      "services": "Education, healthcare, and economic opportunities",
+      "latest_project": "Reviving Lives through Sustainable Water & Hygiene for Urban Refugees (EU Youth Empowerment funded)"
+    },
+    "dean_list_achievements": {
+      "multiple_semesters": [
+        "Alice Wanjira Jeremoki",
+        "Amos Onyancha",
+        "Doris Kendi",
+        "Virginia Njeri"
+      ]
+    }
+  },
+  "leadership_messages": {
+    "mastercard_foundation_ceo": {
+      "name": "Reeta Roy",
+      "title": "President and CEO, Mastercard Foundation",
+      "key_message": "The future is as bright as your ambition is bold, as innovative as your imagination is wild, as strong as you are hopeful, and as secure as you are resilient"
+    },
+    "usiu_vice_chancellor": {
+      "name": "Prof. Mwenda Ntarangwi",
+      "theme": "Empowering Excellence",
+      "key_principles": [
+        "Continually improve yourself",
+        "Set goals with purpose and passion grounded in values",
+        "Set high standards for yourself and others",
+        "Strive to make positive impact in community and world"
+      ]
+    },
+    "program_director": {
+      "name": "Linet Aguko",
+      "key_message": "Use education experience to reimagine and contribute positively in every space you find yourself in"
+    },
+    "advancement_partnerships": {
+      "name": "Eannes Ongus",
+      "title": "Director, Advancement and Partnerships",
+      "key_message": "You are part of a larger mission to create positive change with tools and knowledge to make a difference"
+    }
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2026-02-04",
+    "institution": "USIU-Africa",
+    "source": "Student Handbook, University Catalogue"
+  },
+  "academic_standards": {
+    "minimum_gpa": {
+      "undergraduate": 2.0,
+      "graduate": 3.0,
+      "note": "Failure to maintain leads to Warning → Probation → Dismissal"
+    },
+    "full_time_status": {
+      "undergraduate": {
+        "normal_load": "12 units (4 courses × 3 units each)",
+        "minimum": "9 units"
+      },
+      "graduate": {
+        "normal_load": "9 units",
+        "minimum": "6 units"
+      }
+    },
+    "class_levels": {
+      "freshman": "Fewer than 29 semester units",
+      "sophomore": "30-59 semester units",
+      "junior": "60-89 semester units",
+      "senior": "90+ semester units"
+    },
+    "honours_graduation": {
+      "cum_laude": "3.50 - 3.69",
+      "magna_cum_laude": "3.70 - 3.89",
+      "summa_cum_laude": "3.90 - 4.00",
+      "note": "Computed from all college work at USIU plus any other college attended"
+    }
+  },
+  "attendance_policy": {
+    "expectation": "Students expected to attend all classes",
+    "absence_limit": "5 classes in a 3-unit course",
+    "consequence": "Automatic 'F' grade after 5th absence",
+    "responsibilities": [
+      "Contact instructor in advance if absent",
+      "Responsible for course work due on return",
+      "Responsible for missed course work",
+      "Provide official medical verification (stamp, signature, address) if sick"
+    ]
+  },
+  "registration_policies": {
+    "add_drop_fee": "KES 600 per course",
+    "late_registration_fee": "KES 2,100",
+    "course_substitutions": "Require approval from Academic Program Administrator",
+    "transfer_credits": {
+      "process": "Evaluated by Dean or designee on course-by-course basis",
+      "requirements": [
+        "From accredited institutions",
+        "Grade C or better",
+        "Undergraduate credits only"
+      ],
+      "fee": "KES 2,500 per course",
+      "note": "USIU does not accept correspondence/extension course credits"
+    },
+    "independent_study": "Requires approval from Academic Program Administrator",
+    "audit_fee": "50% of tuition per course"
+  },
+  "graduation_requirements": {
+    "application_deadline": "As listed in Academic Calendar",
+    "commencement_ceremony": "Once per year",
+    "graduation_fees": {
+      "undergraduate": 8500,
+      "masters": 11500,
+      "doctorate": 15500
+    },
+    "gown_deposit": {
+      "undergraduate": 8500,
+      "masters": 11500,
+      "doctorate": "TBA"
+    }
+  },
+  "admission_policies": {
+    "admission_application_fees": {
+      "undergraduate": 3500,
+      "masters": 4000,
+      "doctorate": 4500,
+      "note": "Non-refundable"
+    },
+    "readmission_application_fees": {
+      "undergraduate": 3500,
+      "masters": 4000,
+      "doctorate": 4500,
+      "note": "Required unless approved leave of absence obtained"
+    },
+    "leave_of_absence": {
+      "maximum": "1 academic year (3 semesters)",
+      "note": "Students must apply for re-admission if not on approved leave"
+    },
+    "english_proficiency": {
+      "requirement": "For non-English speaking countries",
+      "toefl_paper_based": "550+",
+      "toefl_computer_based": "213+",
+      "toefl_internet_based": "90+",
+      "ielts": "6.0+",
+      "cambridge_proficiency": "Grade C or better",
+      "validity": "Scores must be current within last 2 years"
+    },
+    "graduate_exams": {
+      "gmat_gre": "Required as appropriate for graduate programs",
+      "validity": "Scores must be current within last 5 years"
+    },
+    "admission_status": {
+      "special_status_non_degree": "May not meet full degree requirements, limited class priority",
+      "transfer_admission": "Official evaluation by Dean, course-by-course basis",
+      "conditionally_admitted": "Must present required documents within first semester"
+    },
+    "returning_graduates": "Must submit new application and meet all requirements for new program"
+  },
+  "financial_aid_programs": {
+    "general_eligibility": [
+      "Fulfill all application and selection procedures within timelines",
+      "Specify scholarship/program names clearly",
+      "Enroll full-time (undergrad: 9-12 units, grad: 6-9 units)",
+      "Be of good conduct",
+      "Meet academic requirements",
+      "Abide by all FA program requirements"
+    ],
+    "undergraduate_programs": [
+      "Full USIU Scholarship",
+      "Alumni Scholarship",
+      "Freshman Scholarship for Kenyans",
+      "International Grant for International Students (IGU)",
+      "Sports Scholarship (freshmen and continuing)",
+      "Diversity Scholarship",
+      "Campus Work Opportunity (CWO)",
+      "Resident Assistantship (RA)",
+      "SAC Grant"
+    ],
+    "graduate_programs": [
+      "MBAS Scholarship",
+      "Public Service Scholarship",
+      "Graduate Assistantship (GA)"
+    ],
+    "all_students_programs": [
+      "Special Need Grant",
+      "Family Tuition Discount Award",
+      "USIU Alumni Discount Award"
+    ],
+    "external_programs": [
+      "Rattansi Education Trust Fund Grant",
+      "Mel Kuol Scholarships",
+      "USAID Scholarship",
+      "Coca-Cola Africa Foundation Scholarship (MSc EMOD)",
+      "Higher Education Loans Board (HELB) - www.helb.co.ke",
+      "Bank Loans (KCB, NBK, Equity Bank)"
+    ],
+    "policies": [
+      "Financial Aid not refundable",
+      "Award depends on fund availability",
+      "Applicants notified within 7 days of interview/admission",
+      "Recipients on FA Probation if GPA drops below standard but not below 2.0",
+      "Kenyan students must apply for HELB if qualified",
+      "Incomplete applications not processed",
+      "Application not a guarantee of award",
+      "Interview required for all applicants"
+    ],
+    "contact": {
+      "phone": "+254 20 3606210",
+      "email": "finaid@usiu.ac.ke",
+      "note": "Most programs provide only partial funds"
+    }
+  },
+  "registrar_services": {
+    "location": "Freida Brown Student Center",
+    "extensions": "782-790, 239, 216",
+    "services": [
+      "Address updates",
+      "Transcript processing (KES 1,000 official)",
+      "Graduation application and clearance",
+      "Grade reporting",
+      "Leave of absence processing",
+      "International student resident permits (Class Passes/Entry Permits)",
+      "Pre-registration coordination",
+      "Academic calendar",
+      "Enrollment verification",
+      "Inter-campus transfer",
+      "USIU ID processing"
+    ],
+    "transcript_fees": {
+      "official": 1000,
+      "postage_africa": 500,
+      "postage_outside_africa": 900
+    },
+    "id_card_replacement": {
+      "lost_damaged_name_change": 1500,
+      "theft_with_police_abstract": 500,
+      "note": "Cards can be damaged by magnets, sunlight, cell phones, bank cards"
+    },
+    "certificate_storage": {
+      "per_day": 100,
+      "maximum": 6000
+    },
+    "degree_certificate_replacement": {
+      "requirements": [
+        "Sworn affidavit from notary/lawyer/commissioner of oaths",
+        "Include full name, address, phone, DOB, degree, year granted",
+        "For damaged certificates, send original",
+        "For name changes, include legal documents (birth certificate, marriage certificate, etc.)",
+        "Covering letter with student number, contact details, reason for replacement"
+      ],
+      "third_party_requests": "Must include signed authorization letter"
+    }
+  },
+  "academic_advising": {
+    "services": [
+      "Degree requirements and course advising",
+      "Academic schedules",
+      "Major and minor program changes",
+      "Adding and dropping courses",
+      "Registration planning",
+      "Course substitutions/academic exceptions",
+      "Transfer credit approval",
+      "Independent study approval"
+    ],
+    "group_sessions": "Once per semester",
+    "individual_sessions": "Available throughout semester",
+    "contacts": {
+      "academic_program_administrators": "Ext 226 (HSS), Ext 418 (CBS)",
+      "academic_advisors": "Ext 336/185 (HSS), Ext 504/171 (CBS)"
+    }
+  },
+  "academic_calendar_notes": [
+    "Graduation application deadline listed in Academic Calendar",
+    "Academic year information available from Academic Program Administrators",
+    "Students responsible for knowing and meeting all deadlines"
+  ],
+  "student_responsibilities": [
+    "Become thoroughly familiar with all university regulations",
+    "Comply with all policies and regulations",
+    "Fulfill all degree program requirements",
+    "Check academic standing online regularly",
+    "Update next of kin/guardian contacts with Registrar",
+    "Ensure mobile numbers and email addresses are current",
+    "Maintain financial clearance throughout semester"
+  ],
+  "special_programs": {
+    "study_abroad_exchange": {
+      "coordinator": "International Students Officer",
+      "awareness_program": "Every 5th week of semester",
+      "extension": "212"
+    },
+    "international_student_orientation": {
+      "timing": "3rd week of each semester",
+      "includes": "City tour",
+      "contact": "Ext 212"
+    }
+  }
+}

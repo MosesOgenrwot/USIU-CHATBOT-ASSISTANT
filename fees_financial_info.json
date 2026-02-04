@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "last_updated": "2026-02-04",
+    "academic_year": "2025-2026",
+    "effective_date": "May 2025",
+    "institution": "USIU-Africa",
+    "note": "Expanded to include all undergraduate, graduate, and doctoral programs"
+  },
+  "fee_schedules": {
+    "bsc_nursing": {
+      "program_name": "Bachelor of Science in Nursing",
+      "fees_per_semester": {
+        "kenyan_students": {
+          "tuition": {
+            "amount": 357000,
+            "currency": "KES",
+            "calculation": "25.5 units @ 14,000 per unit"
+          },
+          "library_fee": 5250,
+          "medical_fee": 2500,
+          "student_activity_fee": 1050,
+          "alumni_services_fee": 350,
+          "nursing_lab_fee": 10700,
+          "technology_fee": 3500,
+          "caution_money": {
+            "amount": 2100,
+            "payable": "once",
+            "refundable": true
+          },
+          "quality_assurance": {
+            "amount": 1000,
+            "payable": "once upon admission",
+            "refundable": false
+          },
+          "total": 383450
+        },
+        "east_african_students": {
+          "tuition": 357000,
+          "library_fee": 5250,
+          "medical_fee": 2500,
+          "student_activity_fee": 1050,
+          "alumni_services_fee": 350,
+          "medical_insurance": 8000,
+          "nursing_lab_fee": 10700,
+          "technology_fee": 3500,
+          "caution_money": {
+            "amount": 2100,
+            "payable": "once",
+            "refundable": true
+          },
+          "quality_assurance": {
+            "amount": 1000,
+            "payable": "once upon admission",
+            "refundable": false
+          },
+          "total": 391450
+        },
+        "non_east_african_students": {
+          "tuition": {
+            "amount": 464100,
+            "currency": "KES",
+            "calculation": "25.5 units @ 18,200 per unit (30% above local rates)"
+          },
+          "library_fee": 6825,
+          "medical_fee": 3250,
+          "student_activity_fee": 1365,
+          "alumni_services_fee": 350,
+          "medical_insurance": 8000,
+          "nursing_lab_fee": 10700,
+          "technology_fee": 3500,
+          "caution_money": {
+            "amount": 2100,
+            "payable": "once",
+            "refundable": true
+          },
+          "quality_assurance": {
+            "amount": 1000,
+            "payable": "once upon admission",
+            "refundable": false
+          },
+          "total": 501190
+        }
+      }
+    }
+  },
+  "other_charges": {
+    "admission_application_fee": {
+      "amount": 3500,
+      "refundable": false
+    },
+    "readmission_application_fee": {
+      "amount": 3500,
+      "refundable": false
+    },
+    "graduation_fee": 8500,
+    "gown_deposit_fee": 8500,
+    "technology_fee": 3500,
+    "it_lab_fee": 6000,
+    "pupils_pass_fee": {
+      "amount_usd": 101,
+      "amount_kes": 13800,
+      "frequency": "per year",
+      "applicable_to": "Non-East Africans only"
+    },
+    "alien_registration_fee": 2200,
+    "transcript_fees": {
+      "official": 1000,
+      "postage_africa": 500,
+      "postage_outside_africa": 900
+    },
+    "credit_transfer_fee": {
+      "amount": 2500,
+      "per": "course"
+    },
+    "certificate_storage_fee": {
+      "amount": 100,
+      "per": "day",
+      "maximum": 6000
+    }
+  },
+  "additional_fees": {
+    "health_insurance": {
+      "boarding_students": 8000,
+      "non_kenyan_students": 8000
+    },
+    "caution_money": {
+      "boarding_students": {
+        "amount": 4778,
+        "refundable": true,
+        "payable": "once"
+      },
+      "day_students": {
+        "amount": 2100,
+        "refundable": true,
+        "payable": "once"
+      }
+    },
+    "hostel_fees": {
+      "room_only": {
+        "amount": 42000,
+        "per": "semester"
+      },
+      "meal_plan_7_day": {
+        "amount": 58800,
+        "calculation": "600 per day"
+      }
+    },
+    "miscellaneous": {
+      "add_drop_fee": {
+        "amount": 600,
+        "per": "course"
+      },
+      "late_registration_fee": 2100,
+      "alumni_id_card": {
+        "amount": 1000,
+        "validity": "3 years"
+      },
+      "alumni_services_fee": {
+        "amount": 350,
+        "frequency": "every semester"
+      },
+      "id_card_replacement": 2000,
+      "audit_fee": {
+        "calculation": "50% of tuition",
+        "per": "course"
+      }
+    }
+  },
+  "payment_methods": {
+    "bank_transfers": [
+      {
+        "bank": "NCBA Bank Kenya Ltd",
+        "branch": "Upper Hill Branch, Mara & Ragati Roads",
+        "address": "P.O. Box 44599-00100, Nairobi, Kenya",
+        "telephone": [
+          "+254(0)20-2884000",
+          "0711056000",
+          "0732156000"
+        ],
+        "kes_account": "6438840014",
+        "usd_account": "6462210014",
+        "account_name": "USIU or U.S. International University",
+        "swift_code": "CBAFKENX",
+        "intermediary_bank": "JP Morgan Chase Bank, New York",
+        "intermediary_swift": "CHASUS33"
+      },
+      {
+        "bank": "Co-operative Bank Of Kenya",
+        "branch": "CO-OP House, Haile Selassie Avenue",
+        "kes_account": "01120002134100",
+        "account_name": "United States International University - Africa"
+      },
+      {
+        "bank": "Standard Chartered Bank Kenya",
+        "branch": "Kenyatta Avenue",
+        "kes_account": "0104023439700",
+        "account_name": "United States International University - Africa"
+      },
+      {
+        "bank": "Kenya Commercial Bank",
+        "branch": "Thika Road Mall",
+        "bank_code": "01",
+        "branch_code": "308",
+        "swift_code": "KCBLKENX",
+        "kes_account": "1179516710",
+        "account_name": "United States International University - Africa"
+      },
+      {
+        "bank": "Absa Bank Kenya PLC",
+        "branch": "Westlands",
+        "bank_code": "03",
+        "branch_code": "073",
+        "swift_code": "BARCKENX",
+        "kes_account": "2037727558",
+        "usd_account": "2047249840",
+        "account_name": "United States International University"
+      }
+    ],
+    "online_card_payment": {
+      "method": "Login to CX Student Portal",
+      "url": "https://cx.usiu.ac.ke",
+      "steps": [
+        "Login to the CX Student Portal",
+        "Click on Student Tab and go to My Account Info",
+        "Click on Balances and then Make a Payment",
+        "Input semester and amount",
+        "Submit and Continue to Secure Payment Portal",
+        "Select card type (Visa or Mastercard)",
+        "Enter card details and CVN",
+        "Receive VISA 3D Secure or MasterCard Secure Code"
+      ]
+    },
+    "mpesa": {
+      "business_number": "516900",
+      "account_format": "StudentID-PurposeCode",
+      "example": "664XXX-TUIT",
+      "purpose_codes": {
+        "tuition": "TUIT",
+        "application_fee": "ADM",
+        "acca": "ACCA",
+        "kenya_sign_language": "KSL",
+        "launchpad": "LAUN",
+        "alumni_fundraising": "AFR",
+        "laundry": "LNDR",
+        "affiliation": "AFFI",
+        "library_book_binding": "LBB",
+        "alumni_library_fee": "ALF",
+        "library_fine": "LIBF",
+        "alumni_payment": "ALN",
+        "library_membership_fee": "LMF",
+        "eyo": "EYO",
+        "library_weeded_books": "LWB",
+        "aiesec_dinner": "DINNER",
+        "monitoring_evaluation": "M&E",
+        "cafeteria_meals": "CFM",
+        "mailing_fee": "MAIL",
+        "certified_ethical_hacker": "CEH",
+        "mr_miss_usiu": "MUS",
+        "chinese": "CHINESE",
+        "parking_fines": "PARF",
+        "cisco": "CISCO",
+        "printing": "PRNT",
+        "culture_week": "CWK",
+        "pupils_pass": "PPP",
+        "english_certificate": "ENGCERT",
+        "sphs_vaccination": "PVAC",
+        "entrepreneurship": "ENT",
+        "room_reservation": "RSV",
+        "gym": "GYM",
+        "transcript": "TSPT",
+        "id_replacement": "IRF",
+        "transport": "TRN",
+        "international_mother_language_day": "IMLD",
+        "research_permit": "IRB",
+        "kalel": "KALEL"
+      }
+    }
+  },
+  "important_notes": [
+    "Fees are subject to annual review",
+    "All students charged KES 3,500 for Technology fee",
+    "USD Exchange Rates fixed every semester for non-east Africans; varies daily for East Africans",
+    "Non-East Africans pay 30% above local rates for tuition and mandatory fees",
+    "No cash payments accepted in Finance Office",
+    "All payments by cheque to 'United States International University - Africa (USIU-Africa)'",
+    "Deposit slips must be forwarded to Finance Office"
+  ],
+  "contact_information": {
+    "address": "P.O. Box 14634-00800, Nairobi - Kenya",
+    "phones": [
+      "+254 730 116 509",
+      "+254 730 116 221",
+      "+254 730 116 538",
+      "+254 730 116 403",
+      "+254 730 116 224"
+    ],
+    "email": "finance@usiu.ac.ke"
+  }
+}

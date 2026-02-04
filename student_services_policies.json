@@ -1,0 +1,505 @@
+{
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2026-02-04",
+    "institution": "USIU-Africa",
+    "document": "Current Student Handbook"
+  },
+  "institutional_information": {
+    "mission": "Promote the discovery and application of knowledge, the acquisition of skills and the development of intellect and character in a manner which prepares students to contribute effectively and ethically as citizens of a changing and increasingly technological world.",
+    "vision": "To be a premier institution of academic excellence with a global perspective.",
+    "core_values": [
+      "Life-long learning - Developing a learning culture that continues throughout a person's lifetime",
+      "Integrity - Ensuring the pursuit of excellence by upholding professional and ethical standards and being accountable",
+      "Innovativeness - Introducing new methods and strategies that ensure quality, efficiency, effectiveness and productivity",
+      "Social responsibility - Providing leadership in responding to issues of national and global concern through collaborative efforts",
+      "Academic freedom - Upholding the spirit of free and critical thought and enquiry, through open exchange of ideas and knowledge"
+    ],
+    "founded": 1969,
+    "status": "Oldest, private and secular university in the region",
+    "accreditation": {
+      "kenya": "Commission for University Education (CUE)",
+      "usa": "WASC Senior College and University Commission (WSCUC)",
+      "dual_accreditation_benefits": "Worldwide recognition, enhanced employment opportunities, admission and scholarships for further studies globally"
+    }
+  },
+  "schools": [
+    {
+      "name": "Chandaria School of Business",
+      "abbreviation": "CSOB"
+    },
+    {
+      "name": "School of Humanities & Social Sciences",
+      "abbreviation": "SHSS"
+    },
+    {
+      "name": "School of Science & Technology",
+      "abbreviation": "SST"
+    },
+    {
+      "name": "School of Communication, Cinematic & Creative Arts",
+      "abbreviation": "SCCCA"
+    },
+    {
+      "name": "School of Pharmacy & Health Sciences",
+      "abbreviation": "SPHS"
+    },
+    {
+      "name": "School of Graduate Studies",
+      "abbreviation": "SGS"
+    }
+  ],
+  "student_services": {
+    "admissions": {
+      "contact": {
+        "location": "Ground Floor, Administration Block",
+        "phones": ["+254 730 116 218", "+254 730 116 500", "+254 730 116 107"],
+        "email": "admit@usiu.ac.ke"
+      },
+      "english_proficiency_requirements": {
+        "non_english_speaking_countries": [
+          "TOEFL: 550 (paper-based) or 213 (computer-based) or 90 (Internet-based)",
+          "Cambridge Test of English Proficiency: Grade C or better",
+          "IELTS: Score of 6 or better"
+        ]
+      },
+      "readmission": {
+        "leave_of_absence_maximum": "One academic year (3 semesters)",
+        "application_fee": "Non-refundable application processing fee required",
+        "status": "Re-admitted students treated as new students with transcript evaluation"
+      }
+    },
+    "financial_aid": {
+      "general_eligibility": [
+        "Fulfill all relevant financial aid application and selection procedures",
+        "Enrolled as full-time student",
+        "Be of good conduct",
+        "Meet qualification requirements",
+        "Abide by all requirements of Financial Aid Programs"
+      ],
+      "undergraduate_programs": [
+        "Full USIU Scholarship",
+        "Criminal Justice Scholarship",
+        "Alumni Scholarship",
+        "Partial Scholarship",
+        "Freshman Scholarship for Kenyans",
+        "Campus Work Opportunity (CWO)",
+        "Sports Scholarship",
+        "Resident Assistant (RA)",
+        "Diversity Scholarship",
+        "Student Council Grant",
+        "Vice Chancellor's Grant"
+      ],
+      "graduate_programs": [
+        "Graduate Alumni Waiver",
+        "Graduate Assistant (GA)",
+        "Sports Scholarship"
+      ],
+      "all_levels": [
+        "Special Need Grant",
+        "Family Tuition Discount Award (10%)",
+        "USIU Alumni Discount Award (10%)"
+      ],
+      "external_programs": [
+        "Rattansi Education Trust Fund Grant",
+        "Higher Education Loans Board (HELB) - www.helb.co.ke",
+        "Mastercard Foundation Scholars Programme"
+      ],
+      "important_notes": [
+        "Students and guardians responsible for paying school fees",
+        "Most Financial Aid Programs provide only partial funds",
+        "Must plan to cover tuition and living expenses"
+      ]
+    },
+    "student_housing": {
+      "on_campus_capacity": 258,
+      "room_type": "Double occupancy",
+      "facilities": [
+        "Wi-Fi connectivity",
+        "Common rooms for games, meetings, and socializing"
+      ],
+      "priority": "International students",
+      "accredited_off_campus": "Vetted hostels around campus available"
+    },
+    "counseling_center": {
+      "location": "State-of-the-art Counseling Unit",
+      "services": [
+        "Individual/Personal Counseling (face-to-face and virtual)",
+        "Group counseling",
+        "Awareness programs (sexual and reproductive health, alcohol and drug abuse)",
+        "Peer Counselling Club",
+        "Life skills training programmes",
+        "Free Voluntary HIV Counseling and Testing (HTS services)"
+      ],
+      "availability": "During working hours (appointments recommended)",
+      "contact": {
+        "extension": ["748", "750", "746", "790"]
+      }
+    },
+    "health_services": {
+      "location": "Ground Floor of Freida Brown Students Centre",
+      "hours": "24 hours a day, 7 days a week (except December holidays)",
+      "services": [
+        "Clinical diagnosis and treatment",
+        "Lab testing",
+        "Dispensing prescriptions",
+        "Minor surgery (stitching, dressing, ear syringing)",
+        "Preventive care",
+        "Health counselling",
+        "Vaccinations",
+        "First Aid training and First Aid kits"
+      ],
+      "contact": {
+        "phones": ["730611760", "730611762", "730611271"]
+      },
+      "insurance_requirement": "Recommended for all students (mandatory for hostel residents and international students)"
+    },
+    "disability_inclusion": {
+      "office": "Disability Inclusion Office",
+      "commitment": "Fair and equal access to students with disabilities, equipped with assistive technologies and specially designed furniture",
+      "principles": [
+        "Respect and inherent dignity",
+        "Participation and involvement",
+        "Inclusion, equity and equality",
+        "Non-discrimination",
+        "Accessibility"
+      ],
+      "student_rights": [
+        "Self-respect, dignity, and self-sufficiency",
+        "Self-representation in decision-making",
+        "Training on assistive devices",
+        "Access to appropriate services",
+        "Full inclusion in university functions",
+        "Appropriate and reasonable adjustments"
+      ],
+      "privacy": "Explicit consent required through Disability Disclosure Form"
+    },
+    "gender_equity_protection": {
+      "policy": "Zero tolerance for sexual harassment and any form of discrimination",
+      "contact": {
+        "phone": "0782 539 361 (24 hours)",
+        "extension": "210",
+        "email": "gep@usiu.ac.ke"
+      },
+      "prohibited_conduct": [
+        "Sexual harassment",
+        "Gender-based violence",
+        "Sexual misconduct",
+        "Harmful practices",
+        "Sexual assault",
+        "Interpersonal violence",
+        "All forms of gender discrimination"
+      ]
+    },
+    "placement_career_services": {
+      "location": "1st Floor, Freida Brown Student Center",
+      "services": [
+        "Career Advising",
+        "Training (workshops, lectures, presentations)",
+        "Industry engagement and placement",
+        "Research and community outreach",
+        "Job and internship placements",
+        "Peer tutoring coordination"
+      ],
+      "contact": {
+        "head": "Ext 779",
+        "officer": "Ext 778 or 796"
+      }
+    },
+    "international_student_affairs": {
+      "services": [
+        "Immigration document assistance",
+        "Money matters guidance",
+        "Safety information",
+        "Transitional support",
+        "Study abroad and exchange programs"
+      ],
+      "orientation": "Conducted on 5th week of each semester",
+      "nationalities": "Over 70 nationalities represented"
+    }
+  },
+  "student_activities": {
+    "sports_teams": {
+      "main_teams": [
+        "Men's Basketball",
+        "Men's Hockey",
+        "Ladies Basketball",
+        "Ladies Hockey",
+        "Men's Swimming",
+        "Men's Rugby"
+      ],
+      "participatory_sports": [
+        "Taekwondo",
+        "Karate",
+        "Soccer",
+        "Cricket",
+        "Volleyball Ladies",
+        "Woodball",
+        "Handball",
+        "Netball",
+        "Chess & Scrabble",
+        "Lawn Tennis",
+        "Athletics",
+        "American Football",
+        "Floorball"
+      ],
+      "facilities": [
+        "Fields, courts, and pitches",
+        "Olympic-sized swimming pool",
+        "Fully equipped state-of-the-art gym"
+      ]
+    },
+    "clubs_societies": [
+      "Young Diplomats Forum",
+      "Michezo Africa (Drama Club)",
+      "Club for Hotel and Tourism Students",
+      "Peer Counseling",
+      "Business",
+      "He for She",
+      "Japanese",
+      "Chinese",
+      "Music/Dance",
+      "AIESEC",
+      "I.T. Club",
+      "Red Cross",
+      "French",
+      "Environmental Society (ENSO)",
+      "ENACTUS",
+      "Pharmacy",
+      "Criminal Justice",
+      "Presidents' Award",
+      "Rotaract",
+      "International Youth Fellowship (IYF)",
+      "Hult Prize",
+      "Film",
+      "Speak up",
+      "Spoken Arts & Debate Society (SADs)"
+    ],
+    "student_government": {
+      "name": "Student Association (SA)",
+      "cabinet_positions": [
+        "Chairperson",
+        "Vice-Chairperson",
+        "Secretary General",
+        "Treasurer",
+        "Social Welfare Representative",
+        "International Students Representative",
+        "Representative for Persons with Disabilities"
+      ],
+      "electoral_college": "Three student representatives from all schools"
+    }
+  },
+  "library_services": {
+    "location": "University Library and Information Center",
+    "mission": "Promotes knowledge discovery, skill acquisition, and intellectual development",
+    "opening_hours": {
+      "during_semester": {
+        "monday_friday": "8:15 AM - 9:00 PM",
+        "saturday": "9:00 AM - 6:00 PM",
+        "sunday": "11:00 AM - 5:00 PM",
+        "public_holidays": "CLOSED"
+      },
+      "academic_breaks": {
+        "monday_friday": "8:15 AM - 5:00 PM",
+        "saturday": "CLOSED",
+        "sunday": "CLOSED",
+        "public_holidays": "CLOSED"
+      }
+    },
+    "borrowing_privileges": {
+      "faculty": "15 books for a month",
+      "staff": "6 books for 2 weeks",
+      "doctorate": "15 books for a month",
+      "students": "10 books for 2 weeks",
+      "alumni": "2 books for 2 weeks (at annual fee)",
+      "others": "No borrowing"
+    },
+    "audiovisual_materials": "2 days for all registered members",
+    "renewal": "Items can be renewed twice unless on hold",
+    "contact": {
+      "email": ["askalibrarian@usiu.ac.ke", "libraryhelpdesk@usiu.ac.ke"],
+      "whatsapp": "0782620858",
+      "extensions": ["254", "371", "364", "252", "292", "549", "373", "235", "429"],
+      "live_chat": "8:00 AM to 9:00 PM every day"
+    },
+    "online_resources": [
+      "VPN installation guide",
+      "Library OPAC",
+      "LibGuides",
+      "AskaLibrarian Live Chat",
+      "PressReader (international magazines and newspapers)",
+      "Daily Nation",
+      "Standard Newspaper",
+      "A-Z database list"
+    ]
+  },
+  "ict_services": {
+    "computer_labs": [
+      "Lab 1 & Lab 5 (Lillian K Beam Building)",
+      "Software Lab (Lillian K Beam Building)",
+      "Hardware Lab (Lillian K Beam Building)",
+      "Journalism Editing Lab (Lillian K Beam Building)",
+      "Journalism Mac Lab 1 & 2 (Lillian K Beam Building)",
+      "Psychology Lab (SHSS)",
+      "Instruction Room (Library)",
+      "e-resource area (Library)",
+      "Main Lab",
+      "Film editing room (SCCA)",
+      "Animation Lab 1 & 2 (SCCCA)",
+      "Computer Lab (SHSS)"
+    ],
+    "services": [
+      "Access to computers during classes",
+      "Academic research and work",
+      "Printing, photocopying, and scanning (prepaid accounts)",
+      "Wireless Internet in designated areas",
+      "CX/CARS portal access",
+      "Blackboard e-learning platform",
+      "Official USIU-Africa email (Microsoft Office365)",
+      "Multimedia services (video conferencing, PA services)"
+    ],
+    "support": {
+      "on_campus": "Ext 333",
+      "off_campus": "+254 20 3606 333",
+      "whatsapp": "+254 735 000 377",
+      "email": "helpdesk@usiu.ac.ke"
+    },
+    "byod_policy": {
+      "registration": "All personal devices must be registered with ICT",
+      "requirements": [
+        "Licensed software",
+        "Current, up-to-date antivirus",
+        "Device presented to security for inspection",
+        "Proper working condition"
+      ]
+    }
+  },
+  "catering_services": {
+    "description": "Contracted food service providers on campus",
+    "offerings": "Quality and affordable food service",
+    "payment_methods": "Various modes available to meet student needs"
+  },
+  "transport_services": {
+    "shuttle_service": {
+      "description": "Student shuttle to and from campus",
+      "payment": "Fee payable through student accounts at Finance Office",
+      "office": "Next to USIU-Africa's transport office",
+      "coordination": "Works with Student Association Cabinet (SAC)"
+    }
+  },
+  "insurance_services": {
+    "medical_insurance": {
+      "eligibility": "All registered students",
+      "requirement": "Mandatory for hostel residents and international students",
+      "exemption": "With proof of acceptable alternative Kenyan cover",
+      "contact": "mwanderi@usiu.ac.ke"
+    },
+    "personal_accident_insurance": {
+      "coverage": "All fully registered students",
+      "scope": "Operational during session (on or off campus)",
+      "benefits": [
+        "Medical expenses reimbursement (up to KES 600,000)",
+        "Death & Permanent disability cover (up to KES 500,000)",
+        "Artificial appliances benefit",
+        "Dental and optical cover",
+        "Last expense payment (KES 250,000) for accident-related injuries"
+      ],
+      "reporting": {
+        "on_campus": "Report to Health Centre immediately",
+        "emergency": "0730116760/762/271",
+        "off_campus": "Seek treatment at recognized facility, pick claim forms within same week"
+      },
+      "contact": "USIUinsuranceteam@usiu.ac.ke, Extension 271"
+    }
+  },
+  "security_safety": {
+    "access_control": {
+      "method": "Biometrics or RFID proximity cards",
+      "id_requirement": "Must display ID card on campus",
+      "visitor_policy": "Identification documents required for vetting"
+    },
+    "parking": {
+      "speed_limit": "10 KPH on campus",
+      "principle": "First come, first served",
+      "disability_parking": "Reserved slots with sticker display required",
+      "illegal_parking_fine": "KES 2,000 (Probation Level 1)",
+      "repeat_offense": "Probation Level 2, may deny parking rights for minimum one semester",
+      "towing_policy": "University may tow vehicles to nearest police station at owner's cost"
+    },
+    "emergency_contacts": {
+      "police": "999 or 112",
+      "counselling": "748, 797, 746, 791",
+      "gender_equity_protection": "210 or 0782539361",
+      "health_center": "730 116 720/760, Ext 759, 760, 764",
+      "security": "730 116 266/320"
+    },
+    "fire_safety": {
+      "extinguisher_types": [
+        "Class A: combustible carbon-based solids",
+        "Class B: flammable liquids",
+        "Class C: flammable gases",
+        "Class D: burning metals",
+        "Electrical equipment fires",
+        "Class F: fats and cooking oils"
+      ],
+      "procedures": [
+        "Do not overload electrical outlets",
+        "Never smoke on campus",
+        "Never go back into burning building",
+        "Plan escape routes",
+        "Call fire department from safe location",
+        "Crawl out if toxic fumes present",
+        "Use extinguishers only for small fires"
+      ]
+    }
+  },
+  "contact_information": {
+    "main": {
+      "address": "P.O. Box 14634-00800, USIU Road, Off Thika Road (Exit 7), Nairobi, Kenya",
+      "phones": [
+        "+254 730 116 290",
+        "+254 730 116 291",
+        "+254 730 116 247",
+        "+254 730 116 300",
+        "+254 730 116 397",
+        "+254 730 116 503",
+        "+254 730 116 522",
+        "+254 755 844 849"
+      ],
+      "email": "admit@usiu.ac.ke",
+      "website": "www.usiu.ac.ke",
+      "social_media": {
+        "twitter": "@USIU-Africa",
+        "instagram": "@ExperienceUSIU"
+      }
+    },
+    "registrar": {
+      "location": "Freida Brown Student Center",
+      "extensions": ["782", "783", "784", "785", "786", "787", "788", "789", "790"],
+      "services": [
+        "Update student information",
+        "Transcripts processing",
+        "Graduation application and clearance",
+        "Grade reporting",
+        "Leave of Absence processing",
+        "International Student Resident Permits",
+        "Pre-Registration Coordination",
+        "Enrollment Verification",
+        "Inter-campus Transfer",
+        "ID card processing",
+        "Degree certificate verification"
+      ]
+    },
+    "alumni_office": {
+      "extensions": ["417", "818"],
+      "email": "alumni@usiu.ac.ke",
+      "social_media": {
+        "twitter": "@USIUAlumni",
+        "facebook": "@USIUAfricaAlumni",
+        "instagram": "@usiuAfricaalumniofficial"
+      },
+      "registration": "https://www.usiu.ac.ke/online-registration/",
+      "benefits": "https://www.usiu.ac.ke/benefits-activities/"
+    }
+  }
+}

@@ -1,0 +1,564 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "last_updated": "2026-02-04",
+    "academic_year": "2025-2026",
+    "effective_date": "September 2025",
+    "institution": "USIU-Africa",
+    "note": "Complete fee schedule for all on-campus programs - undergraduate, graduate, and doctoral"
+  },
+  "undergraduate_programs": {
+    "business_programs": {
+      "programs": [
+        "Bachelor of Science in Finance",
+        "Bachelor of Science in International Business Administration",
+        "Bachelor of Science in Accounting"
+      ],
+      "fees_per_semester": {
+        "kenyan": {
+          "tuition": {"amount": 132000, "calculation": "12 units @ 11,000"},
+          "library_fee": 5250,
+          "medical_fee": 2500,
+          "student_activity_fee": 1050,
+          "alumni_services_fee": 350,
+          "technology_fee": 3500,
+          "caution_money": 2100,
+          "quality_assurance": 1000,
+          "total": 147750
+        },
+        "east_african": {
+          "tuition": 132000,
+          "library_fee": 5250,
+          "medical_fee": 2500,
+          "student_activity_fee": 1050,
+          "alumni_services_fee": 350,
+          "medical_insurance": 8000,
+          "technology_fee": 3500,
+          "caution_money": 2100,
+          "quality_assurance": 1000,
+          "total": 155750
+        },
+        "non_east_african": {
+          "tuition": {"amount": 171600, "calculation": "12 units @ 14,300"},
+          "library_fee": 6825,
+          "medical_fee": 3250,
+          "student_activity_fee": 1365,
+          "alumni_services_fee": 350,
+          "medical_insurance": 8000,
+          "technology_fee": 3500,
+          "caution_money": 2100,
+          "quality_assurance": 1000,
+          "total": 197990
+        }
+      }
+    },
+    "hotel_restaurant_management": {
+      "program": "Bachelor of Science in Hotel & Restaurant Management",
+      "fees_per_semester": {
+        "kenyan": {
+          "tuition": 132000,
+          "library_fee": 5250,
+          "medical_fee": 2500,
+          "student_activity_fee": 1050,
+          "alumni_services_fee": 350,
+          "technology_fee": 3500,
+          "hotel_restaurant_lab_fee": 10700,
+          "caution_money": 2100,
+          "quality_assurance": 1000,
+          "total": 158450
+        },
+        "east_african": {
+          "total": 166450
+        },
+        "non_east_african": {
+          "total": 208690
+        }
+      }
+    },
+    "humanities_social_sciences": {
+      "programs": [
+        "Bachelor of Arts in International Relations",
+        "Bachelor of Arts in Psychology"
+      ],
+      "fees_per_semester": {
+        "kenyan": {"total": 147750},
+        "east_african": {"total": 155750},
+        "non_east_african": {"total": 197990}
+      }
+    },
+    "criminal_justice": {
+      "program": "Bachelor of Arts in Criminal Justice Studies",
+      "fees_per_semester": {
+        "kenyan": {
+          "tuition": 132000,
+          "criminal_justice_lab_fee": 3000,
+          "total": 150750
+        },
+        "east_african": {"total": 158750},
+        "non_east_african": {"total": 200990}
+      }
+    },
+    "technology_programs": {
+      "programs": [
+        "Bachelor of Science in Applied Computer Technology",
+        "Bachelor of Science in Information System Technology",
+        "Bachelor of Science in Data Science & Analytics",
+        "Bachelor of Science in Software Engineering",
+        "Bachelor of Science in Artificial Intelligence (AI) & Robotics"
+      ],
+      "fees_per_semester": {
+        "kenyan": {
+          "tuition": {"amount": 202500, "calculation": "15 units @ 13,500"},
+          "library_fee": 5250,
+          "medical_fee": 2500,
+          "student_activity_fee": 1050,
+          "alumni_services_fee": 350,
+          "it_lab_fee": 6000,
+          "caution_money": 2100,
+          "quality_assurance": 1000,
+          "total": 220750
+        },
+        "east_african": {"total": 228750},
+        "non_east_african": {
+          "tuition": {"amount": 263250, "calculation": "15 units @ 17,550"},
+          "total": 292140
+        }
+      }
+    },
+    "pharmacy": {
+      "program": "Bachelor of Pharmacy",
+      "fees_per_semester": {
+        "kenyan": {
+          "tuition": {"amount": 336000, "calculation": "24 units @ 14,000"},
+          "pharmacy_lab_fee": 10700,
+          "total": 362450
+        },
+        "east_african": {"total": 370450},
+        "non_east_african": {
+          "tuition": {"amount": 436800, "calculation": "24 units @ 18,200"},
+          "total": 473890
+        }
+      }
+    },
+    "nursing": {
+      "program": "Bachelor of Science in Nursing",
+      "fees_per_semester": {
+        "kenyan": {
+          "tuition": {"amount": 357000, "calculation": "25.5 units @ 14,000"},
+          "nursing_lab_fee": 10700,
+          "total": 383450
+        },
+        "east_african": {"total": 391450},
+        "non_east_african": {
+          "tuition": {"amount": 464100, "calculation": "25.5 units @ 18,200"},
+          "total": 501190
+        }
+      }
+    },
+    "communication_arts": {
+      "programs": [
+        "Bachelor of Arts in Film Production and Directing",
+        "Bachelor of Arts in Animation",
+        "Bachelor of Arts in Journalism"
+      ],
+      "fees_per_semester": {
+        "kenyan": {
+          "tuition": {"amount": 156000, "calculation": "12 units @ 13,000"},
+          "lab_fee": 10700,
+          "total": 182450
+        },
+        "east_african": {"total": 190450},
+        "non_east_african": {
+          "tuition": {"amount": 202800, "calculation": "12 units @ 16,900"},
+          "total": 239890
+        }
+      }
+    }
+  },
+  "graduate_programs": {
+    "business_masters": {
+      "programs": [
+        "Master of Science in Management & Organizational Development (MOD)",
+        "Master of Business Administration (MBA)",
+        "Master of Science in Global Banking & Finance"
+      ],
+      "fees_per_semester": {
+        "kenyan": {
+          "tuition": {"amount": 144000, "calculation": "9 units @ 16,000"},
+          "total": 159750
+        },
+        "east_african": {"total": 167750},
+        "non_east_african": {
+          "tuition": {"amount": 187200, "calculation": "9 units @ 20,800"},
+          "total": 213590
+        }
+      }
+    },
+    "mba_specialized": {
+      "programs": [
+        "MBA - Global Business Management",
+        "MBA - Health Leadership & Management"
+      ],
+      "structure": "3 semesters (Semester I: 12 units, Semester II: 15 units, Semester III: 18 units)",
+      "east_african": {
+        "semester_1": {"tuition": 240000, "total": 255750},
+        "semester_2": {"tuition": 300000, "total": 312650},
+        "semester_3": {"tuition": 360000, "graduation_fee": 11500, "total": 384150},
+        "note": "Global Study Tour (TBA)"
+      },
+      "non_east_african": {
+        "semester_1": {"tuition": 312000, "total": 338390},
+        "semester_2": {"tuition": 390000, "total": 413290},
+        "semester_3": {"tuition": 468000, "total": 502790}
+      }
+    },
+    "international_relations": {
+      "program": "Masters in International Relations (MIR)",
+      "fees_per_semester": {
+        "kenyan": {"total": 159750},
+        "east_african": {"total": 167750},
+        "non_east_african": {"total": 213590}
+      }
+    },
+    "marriage_family_therapy": {
+      "program": "Master of Arts in Marriage and Family Therapy (MFT)",
+      "regular_courses": {
+        "kenyan": {"total": 159750},
+        "east_african": {"total": 167750},
+        "non_east_african": {"total": 213590}
+      },
+      "foundational_courses": {
+        "kenyan": {
+          "tuition": {"amount": 192000, "calculation": "12 units @ 16,000"},
+          "total": 207750
+        },
+        "east_african": {"total": 215750},
+        "non_east_african": {
+          "tuition": {"amount": 249600, "calculation": "12 units @ 20,800"},
+          "total": 275990
+        }
+      }
+    },
+    "psychology_masters": {
+      "programs": [
+        "Master of Arts in Counselling Psychology (MACS)",
+        "Master of Arts in Clinical Psychology (MACP)"
+      ],
+      "regular_courses": {
+        "kenyan": {
+          "tuition": 144000,
+          "psychology_lab_fee": 3000,
+          "total": 162750
+        },
+        "east_african": {"total": 170750},
+        "non_east_african": {"total": 216590}
+      },
+      "foundational_courses": {
+        "kenyan": {
+          "tuition": 192000,
+          "psychology_lab_fee": 3000,
+          "total": 210750
+        },
+        "east_african": {"total": 218750},
+        "non_east_african": {"total": 278990}
+      }
+    },
+    "criminal_transitional_justice": {
+      "program": "Master of Arts in Criminal and Transitional Justice (MCTJ)",
+      "fees_per_semester": {
+        "kenyan": {
+          "tuition": 144000,
+          "criminal_justice_lab_fee": 3000,
+          "total": 162750
+        },
+        "east_african": {"total": 170750},
+        "non_east_african": {"total": 216590}
+      }
+    },
+    "information_security": {
+      "program": "Master of Science in Information Security (MSEC)",
+      "fees_per_semester": {
+        "kenyan": {
+          "tuition": {"amount": 153000, "calculation": "9 units @ 17,000"},
+          "it_lab_fee": 6000,
+          "total": 171250
+        },
+        "east_african": {"total": 179250},
+        "non_east_african": {
+          "tuition": {"amount": 198900, "calculation": "9 units @ 22,100"},
+          "total": 227790
+        }
+      }
+    },
+    "information_systems_technology": {
+      "program": "Master of Science in Information Systems & Technology (MSIS)",
+      "fees_per_semester": {
+        "kenyan": {
+          "tuition": 153000,
+          "it_lab_fee": 6000,
+          "total": 171250
+        },
+        "east_african": {"total": 179250},
+        "non_east_african": {"total": 227790}
+      }
+    },
+    "communication_studies": {
+      "program": "Master of Arts in Communication Studies (MCOM)",
+      "regular_courses": {
+        "kenyan": {
+          "tuition": 144000,
+          "lab_fee": 10700,
+          "total": 170450
+        },
+        "east_african": {"total": 178450},
+        "non_east_african": {"total": 224290}
+      },
+      "foundational_courses": {
+        "kenyan": {
+          "tuition": 192000,
+          "lab_fee": 10700,
+          "total": 218450
+        },
+        "east_african": {"total": 226450},
+        "non_east_african": {"total": 286690}
+      }
+    }
+  },
+  "doctoral_programs": {
+    "business_administration": {
+      "program": "Doctor of Business Administration (DBA)",
+      "fees_per_semester": {
+        "kenyan": {
+          "tuition": {"amount": 180000, "calculation": "9 units @ 20,000"},
+          "total": 195750
+        },
+        "east_african": {"total": 203750},
+        "non_east_african": {
+          "tuition": {"amount": 234000, "calculation": "9 units @ 26,000"},
+          "total": 260390
+        }
+      }
+    },
+    "clinical_psychology": {
+      "program": "Doctor of Psychology, Clinical Psychology (PsyD)",
+      "fees_per_semester": {
+        "kenyan": {"total": 195750},
+        "east_african": {"total": 203750},
+        "non_east_african": {"total": 260390}
+      }
+    },
+    "international_relations": {
+      "program": "Doctor of Philosophy in International Relations (DIR)",
+      "fees_per_semester": {
+        "kenyan": {"total": 195750},
+        "east_african": {"total": 203750},
+        "non_east_african": {"total": 260390}
+      }
+    },
+    "information_systems_technology": {
+      "program": "Doctor of Philosophy, Information Systems & Technology (DIST)",
+      "fees_per_semester": {
+        "kenyan": {
+          "tuition": 180000,
+          "it_lab_fee": 6000,
+          "total": 198250
+        },
+        "east_african": {"total": 206250},
+        "non_east_african": {"total": 262890}
+      }
+    }
+  },
+  "online_programs": {
+    "undergraduate": {
+      "criminal_justice": {
+        "program": "Online Bachelor of Arts in Criminal Justice Studies",
+        "fees_per_semester": {
+          "kenyan": {"total": 150750},
+          "east_african": {"total": 158750},
+          "non_east_african": {"total": 200990}
+        }
+      },
+      "data_science": {
+        "program": "Online Bachelor of Science in Data Science & Analytics",
+        "fees_per_semester": {
+          "kenyan": {"total": 220750},
+          "east_african": {"total": 228750},
+          "non_east_african": {"total": 292140}
+        }
+      }
+    },
+    "graduate": {
+      "mba": {
+        "program": "Online Master of Business Administration",
+        "fees_per_semester": {
+          "kenyan": {
+            "tuition": {"amount": 153000, "calculation": "9 units @ 17,000"},
+            "total": 168750
+          },
+          "east_african": {"total": 176750},
+          "non_east_african": {
+            "tuition": {"amount": 198900, "calculation": "9 units @ 22,100"},
+            "total": 225290
+          }
+        }
+      },
+      "counselling_psychology": {
+        "program": "Online Master of Arts in Counselling Psychology",
+        "regular_courses": {
+          "kenyan": {
+            "tuition": 153000,
+            "psychology_lab_fee": 3000,
+            "total": 171750
+          },
+          "east_african": {"total": 179750},
+          "non_east_african": {"total": 228290}
+        },
+        "foundational_courses": {
+          "kenyan": {
+            "tuition": 204000,
+            "psychology_lab_fee": 3000,
+            "total": 222750
+          },
+          "east_african": {"total": 230750},
+          "non_east_african": {"total": 294590}
+        }
+      },
+      "international_relations": {
+        "program": "Online Master of Arts in International Relations",
+        "fees_per_semester": {
+          "kenyan": {"total": 168750},
+          "east_african": {"total": 176750},
+          "non_east_african": {"total": 225290}
+        }
+      },
+      "communication_studies": {
+        "program": "Online Master of Arts in Communication Studies",
+        "regular_courses": {
+          "kenyan": {
+            "tuition": 153000,
+            "lab_fee": 10700,
+            "total": 179450
+          },
+          "east_african": {"total": 187450},
+          "non_east_african": {"total": 235990}
+        },
+        "foundational_courses": {
+          "kenyan": {
+            "tuition": 204000,
+            "lab_fee": 10700,
+            "total": 230450
+          },
+          "east_african": {"total": 238450},
+          "non_east_african": {"total": 302290}
+        }
+      },
+      "data_science_analytics": {
+        "program": "Online Master of Science in Data Science & Analytics",
+        "fees_per_semester": {
+          "kenyan": {"total": 168750},
+          "east_african": {"total": 176750},
+          "non_east_african": {"total": 225290}
+        }
+      }
+    }
+  },
+  "other_charges": {
+    "by_level": {
+      "undergraduate": {
+        "admission_application_fee": 3500,
+        "readmission_application_fee": 3500,
+        "graduation_fee": 8500,
+        "gown_deposit_fee": 8500
+      },
+      "masters": {
+        "admission_application_fee": 4000,
+        "readmission_application_fee": 4000,
+        "graduation_fee": 11500,
+        "gown_deposit_fee": 11500
+      },
+      "doctorate": {
+        "admission_application_fee": 4500,
+        "readmission_application_fee": 4500,
+        "graduation_fee": 15500,
+        "gown_deposit_fee": "TBA"
+      }
+    },
+    "lab_fees": {
+      "hotel_restaurant_management_lab": 10700,
+      "journalism_lab": 10700,
+      "it_lab": 6000,
+      "technology_fee": 3500,
+      "animation_film_lab": 10700,
+      "language_lab": 3000,
+      "psychology_lab": 3000,
+      "criminal_justice_lab": 3000,
+      "pharmacy_lab": 10700
+    },
+    "international_student_fees": {
+      "pupils_pass_fee": {"usd": 101, "kes": 13800, "frequency": "per year"},
+      "alien_registration_fee": 2200
+    },
+    "transcripts": {
+      "official": 1000,
+      "postage_africa": 500,
+      "postage_outside_africa": 900
+    },
+    "other": {
+      "credit_transfer_per_course": 2500,
+      "certificate_storage_per_day": 100,
+      "certificate_storage_maximum": 6000
+    }
+  },
+  "additional_fees_all_programs": {
+    "health_insurance": {
+      "boarding_non_kenyan": 8000
+    },
+    "caution_money": {
+      "boarding_students": 4778,
+      "day_students": 2100,
+      "note": "Refundable & payable once"
+    },
+    "room_board": {
+      "room_only_per_semester": 42000,
+      "7_day_meal_plan": {"amount": 58800, "calculation": "600 per day"}
+    },
+    "miscellaneous": {
+      "add_drop_fee_per_course": 600,
+      "late_registration_fee": 2100,
+      "alumni_id_card": {"amount": 1000, "validity": "3 years"},
+      "alumni_services_fee_per_semester": 350,
+      "id_card_replacement": 2000,
+      "audit_fee_per_course": "50% of Tuition"
+    }
+  },
+  "important_notes": [
+    "All Fees due on or before First Day of every semester",
+    "For Freshman, fee due before course registration",
+    "Outstanding balances attract 1.5% per month additional fee",
+    "Fees subject to annual review",
+    "All students charged KES 3,500 for Technology fee",
+    "SST students (APT, IST, SWE, DSA, DIST) charged KES 6,000 IT Lab fee instead",
+    "USD Exchange Rates fixed every semester for non-East Africans; varies daily for East Africans",
+    "Non-East Africans pay 30% above local rates for tuition and mandatory fees",
+    "No cash payments accepted in Finance Office",
+    "Masters students: Thesis II charged as full 3-unit course on 1st registration, 50% on 2nd and 3rd registration, full charge if extends beyond 3rd registration"
+  ],
+  "payment_methods": {
+    "same_as_previous": "See fees_financial_info.json for complete bank details and M-Pesa codes"
+  },
+  "contact_information": {
+    "address": "P.O. Box 14634-00800, USIU Road, Off Thika Road (Exit 7), Nairobi - Kenya",
+    "phones": ["+254 730 116 509", "+254 730 116 221", "+254 730 116 538", "+254 730 116 403", "+254 730 116 224"],
+    "email": "finance@usiu.ac.ke",
+    "admissions_email": "admit@usiu.ac.ke",
+    "admissions_phones": ["+254 730 116 290", "+254 730 116 291", "+254 730 116 241", "+254 730 116 300", "+254 730 116 397", "+254 730 116 503", "+254 730 116 522"],
+    "website": "www.usiu.ac.ke"
+  },
+  "summary_statistics": {
+    "total_undergraduate_programs": 15,
+    "total_graduate_programs": 13,
+    "total_doctoral_programs": 4,
+    "total_online_programs": 7,
+    "total_programs_documented": 39
+  }
+}
